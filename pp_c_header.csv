@@ -1,0 +1,1077 @@
+Relatório;Mapa;Cod Coleta;Estado;Municipio;Cod Pa;Nome Pa;Num Lote Geo;Num Lote Incra;Nome Ocupante;Data Coleta;Cultura;Cultura Outros;Sementes Mudas;Propria Comprada Doada;Crioula;Formacao;Prod Anual;Prod Auto;Prod Comercial;Prod Comercial Vlr
+;;5755;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;716;;Deusimar Nunes da Silva;27/11/2020 17:31:53;Banana;;Mudas;Própria;Não;Não;306.00;30.00;276.00;1,380.00
+;;5338;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;748;;Neucivaldo Pereira da Silva;26/11/2020 12:43:01;Milho;;Sementes;Comprada;Não;;3,600.00;3,600.00;0.00;0.00
+;;5755;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;716;;Deusimar Nunes da Silva;27/11/2020 17:31:53;Milho;;Sementes;Própria;Não;;0.00;0.00;0.00;0.00
+;;5755;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;716;;Deusimar Nunes da Silva;27/11/2020 17:31:53;Mandioca;;Mudas;Própria;Não;;3,000.00;0.00;3,000.00;4,000.00
+;;5719;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;746;;Abner Soares Rabelo;25/11/2020 19:08:34;Banana;;Mudas;Própria;Sim;Não;500.00;0.00;500.00;3,000.00
+;;5658;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;725;;Antonio Pereira Chaves;28/11/2020 13:42:48;Milho;;Sementes;Própria;Não;;600.00;600.00;0.00;0.00
+;;5314;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;713;;Ednalva Galvão de Oliveira Silva Ribeiro;28/11/2020 13:20:36;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;5314;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;713;;Ednalva Galvão de Oliveira Silva Ribeiro;28/11/2020 13:20:36;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;6353;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;690;;Joao Batista Ferreira;01/12/2020 10:34:17;Cana-de-açúcar;;Mudas;Própria;;Não;70,000.00;70,000.00;0.00;0.00
+;;5243;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;711;;JOÃO ALVES DOS SANTOS;28/11/2020 14:02:32;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5757;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;769;;VALDECY ROZENO DE LIMA;27/11/2020 12:47:52;Mandioca;;Mudas;Própria;Não;Sim;0.00;0.00;0.00;0.00
+;;5506;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;710;;JOAO GONCALVES SOARES;28/11/2020 14:04:34;Mandioca;;Mudas;Própria;Não;Sim;0.00;0.00;0.00;0.00
+;;5668;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;729;;Maria de Lourdes Melo Rodrigues;28/11/2020 16:14:42;Mandioca;;Mudas;Própria;Não;;1.00;1.00;0.00;0.00
+;;5504;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;770;;Vagma Castro Sousa;27/11/2020 13:25:47;Mandioca;;Mudas;Própria;Não;Sim;0.00;0.00;0.00;0.00
+;;5504;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;770;;Vagma Castro Sousa;27/11/2020 13:25:47;Banana;;Mudas;Doada;Não;Sim;;;;
+;;5504;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;770;;Vagma Castro Sousa;27/11/2020 13:25:47;Maracuja;;Sementes;Doada;Não;Não;400.00;30.00;370.00;4.30
+;;6353;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;690;;Joao Batista Ferreira;01/12/2020 10:34:17;Mandioca;;Mudas;Própria;;;50,000.00;50,000.00;0.00;0.00
+;;4922;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;236;;Luzimar Conceição de Sousa;18/11/2020 19:18:21;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6037;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;628;;Maria Iolete Silva;22/11/2020 19:04:33;Mandioca;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;6002;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;595;;Fabiano Dias de Oliveira;21/11/2020 22:11:34;Mandioca;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;6183;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;493;;Rosalina Pereira da Silva;20/11/2020 14:30:15;Mandioca;;Mudas;Doada;Não;;6,000.00;6,000.00;0.00;0.00
+;;5464;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;513;;Adalberto Carlos da Silva Alencar;28/11/2020 14:12:49;Banana;;Mudas;Própria;Não;Sim;;;;
+;;5667;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;741;;Raimundo Evangelista Germano;27/11/2020 11:06:30;Mandioca;;Mudas;Comprada;Não;;12,000.00;12,000.00;0.00;0.00
+;;5616;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;470;;Maria de Lourdes Aires Saraiva;19/11/2020 11:02:51;Cana-de-açúcar;;Mudas;Doada;Não;Sim;;;;
+;;4939;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;02;;Maria Cristina Eduardo Evangelista Pereira;23/11/2020 15:18:11;Mandioca;;Mudas;Própria;;;54,000.00;6,000.00;48,000.00;3,600.00
+;;5541;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;740;;Expedito Pereira de Sousa;27/11/2020 11:23:42;Mandioca;;Mudas;Própria;Não;;12,000.00;12,000.00;0.00;0.00
+;;5665;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;731;;Amos Alves Teixeira;28/11/2020 16:43:49;Milho;;Sementes;Própria;Não;;4,800.00;400.00;4,400.00;2,932.00
+;;5768;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;283A;;Elias Gonçalves Da Silva;18/11/2020 15:31:57;Mandioca;;Mudas;Doada;Não;;2,040.00;120.00;1,920.00;5,440.00
+;;5763;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;772;;IVANILDE BARBOSA DOS SANTOS SILVA;27/11/2020 14:42:10;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5666;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;732;;José Gomes da Silva;28/11/2020 16:52:15;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;6008;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;606;;Elias Simao dos Santos;19/11/2020 11:05:02;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;5002;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;291;;João Pereira de Sousa Silva;21/11/2020 15:26:23;Mandioca;;Mudas;Própria;Não;;15,000.00;15,000.00;0.00;0.00
+;;5760;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;279;;FRANCISCA FEITOSA DA SILVA SANTOS;19/11/2020 17:36:33;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5103;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;278;;José Bonfim Ventura;19/11/2020 18:18:34;Mandioca;;Sementes;Própria;Não;;6,000.00;6,000.00;0.00;0.00
+;;5347;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;336;;Manoel Pereira da Cruz;18/11/2020 13:40:40;Mandioca;;Mudas;Própria;Não;;500.00;500.00;0.00;0.00
+;;5310;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;277;;Ivanilde Janario Barros Souza;19/11/2020 18:33:22;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5761;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;702;;Maria do Espírito Santo Evangelista da Silva;28/11/2020 18:01:46;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5277;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;335;;Hélio Gomes da Silva;21/11/2020 11:37:04;Mandioca;;Mudas;Própria;;;600.00;600.00;0.00;0.00
+;;5743;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;294;;Antônio dos Santos Costa;21/11/2020 17:11:44;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5481;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;276;;Maria de Jesus Rodrigues Reis;19/11/2020 18:51:34;Mandioca;;Mudas;Própria;Não;;5,800.00;5,800.00;0.00;0.00
+;;4925;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;295;;Valderice Lima da Costa;21/11/2020 17:29:49;Mandioca;;Mudas;Própria;Não;;1,600.00;1,600.00;0.00;0.00
+;;5278;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;333;;Gleidizete Coelho Gama;21/11/2020 13:43:17;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5537;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;296;;Maria Gorete de Sousa Santos;25/11/2020 18:09:23;Mandioca;;Mudas;Doada;Não;;3,000.00;3,000.00;0.00;0.00
+;;5350;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;345;;Antonia Pereira Guimarães;21/11/2020 13:07:49;Mandioca;;Mudas;Própria;;;800.00;800.00;0.00;0.00
+;;6249;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;488;;João Sancho de Oliveira;20/11/2020 13:31:49;Mandioca;;Mudas;Própria;Não;;12,000.00;12,000.00;0.00;0.00
+;;5254;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;331;;Antonio Mota da Silva;21/11/2020 15:59:30;Mandioca;;Mudas;Própria;Não;;1,000.00;500.00;500.00;6,000.00
+;;5286;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;272;;Eva Vieira De Carvalho;20/11/2020 14:34:53;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5635;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;487;;Claudia Eliana Feitosa;20/11/2020 13:53:04;Mandioca;;Mudas;Própria;Não;;500.00;500.00;0.00;0.00
+;;5349;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;346;;Elisangela Oliveira;21/11/2020 12:42:38;Mandioca;;Mudas;Própria;Não;;2,500.00;2,500.00;0.00;0.00
+;;5184;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;270;;Antônio Veloso;20/11/2020 13:56:32;Quiabo;;Sementes;Própria;Sim;;10.00;10.00;0.00;0.00
+;;5184;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;270;;Antônio Veloso;20/11/2020 13:56:32;Milho;;Sementes;Comprada;Não;;900.00;900.00;0.00;0.00
+;;5184;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;270;;Antônio Veloso;20/11/2020 13:56:32;Pepino;;Sementes;Própria;Sim;;108.00;108.00;0.00;0.00
+;;5184;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;270;;Antônio Veloso;20/11/2020 13:56:32;Mandioca;;Mudas;Própria;Sim;;480.00;480.00;0.00;0.00
+;;5184;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;270;;Antônio Veloso;20/11/2020 13:56:32;Abóbora Moranga;;Sementes;Própria;Sim;;1,000.00;400.00;600.00;1,000.00
+;;5637;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;485;;Maria de Jesus Soares Abreu;20/11/2020 17:00:21;Mandioca;;Mudas;Própria;;;1,700.00;1,700.00;0.00;0.00
+;;5262;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;298;;Valdenora Carvalho da Silva Barbosa;25/11/2020 18:20:11;Banana;;Mudas;Própria;Sim;Sim;;;;
+;;5262;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;298;;Valdenora Carvalho da Silva Barbosa;25/11/2020 18:20:11;Milho;;Sementes;Própria;Não;;0.00;0.00;0.00;0.00
+;;5262;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;298;;Valdenora Carvalho da Silva Barbosa;25/11/2020 18:20:11;Cana-de-açúcar;;Mudas;Comprada;Não;Sim;;;;
+;;5351;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;348;;Oneide Tomasio dos Santos;21/11/2020 14:34:22;Mandioca;;Mudas;Própria;Não;;1,200.00;1,200.00;0.00;0.00
+;;5616;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;470;;Maria de Lourdes Aires Saraiva;19/11/2020 11:02:51;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5388;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;469;;Danilo Francisco Pereira;24/11/2020 17:00:33;Abacaxi;;Mudas;Própria;Não;;18,000.00;0.00;18,000.00;16,200.00
+;;5459;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;484;;Divina de Oliveira;20/11/2020 17:32:47;Milho;;Sementes;Própria;Não;;6,300.00;6,300.00;0.00;0.00
+;;5459;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;484;;Divina de Oliveira;20/11/2020 17:32:47;Mandioca;;Mudas;Própria;Não;;9,000.00;9,000.00;0.00;0.00
+;;5388;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;469;;Danilo Francisco Pereira;24/11/2020 17:00:33;Feijão;;Sementes;Própria;Não;;100.00;100.00;0.00;0.00
+;;5638;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;483;;Célia Pereira da Costa;20/11/2020 17:57:49;Mandioca;;Mudas;Própria;Não;;2,500.00;2,500.00;0.00;0.00
+;;5490;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;267;;Sinomar Rosa de Oliveira;20/11/2020 17:52:40;Mandioca;;Mudas;Própria;Não;;6,000.00;6,000.00;0.00;0.00
+;;5282;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;325;;Antonio de Jesus Vieira;24/11/2020 12:56:10;Mandioca;;Mudas;Própria;;;2,000.00;2,000.00;0.00;0.00
+;;5257;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;324;;Ana Rosa Pereira da Silva;24/11/2020 14:48:32;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;6239;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;352;;Valdileia da Cruz Bezerra;21/11/2020 17:19:24;Mandioca;;Mudas;Própria;Não;;1,500.00;1,500.00;0.00;0.00
+;;5275;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;265;429;José Horival de Lima;19/11/2020 10:29:42;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5275;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;265;429;José Horival de Lima;19/11/2020 10:29:42;Banana;;Mudas;Própria;Não;Não;2,400.00;300.00;2,100.00;6,300.00
+;;5275;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;265;429;José Horival de Lima;19/11/2020 10:29:42;Mandioca;;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;5256;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;323;;Tatiane Gomes Fonseca Tavares;23/11/2020 19:57:58;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;5387;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;354;;Josimar Barros Ferreira;24/11/2020 12:14:54;Mandioca;;Mudas;Própria;Não;;800.00;800.00;0.00;0.00
+;;5598;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;321;;Henrique Rafael de Sousa;23/11/2020 18:10:24;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;5453;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;308;;Diana da Silva Brito Nonato;25/11/2020 12:14:47;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5493;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;320;;Luciana Barbosa da Silva Marreiros;23/11/2020 17:48:43;Mandioca;;Mudas;Própria;Não;;750.00;750.00;0.00;0.00
+;;5385;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;375;;Roberval dos Reis Pimentel;24/11/2020 11:19:12;Mandioca;;Mudas;Própria;Não;;800.00;800.00;0.00;0.00
+;;5255;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;319;;Antonia Rosa da Silva;23/11/2020 17:31:41;Mandioca;;Mudas;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;5619;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;475;;Josué da Conceição Sampaio;26/11/2020 16:16:38;Mandioca;;Mudas;Própria;;;600.00;600.00;0.00;0.00
+;;5212;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;358;;Manoel Bonfim Azevedo Silva;24/11/2020 11:20:33;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5622;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;474B;;José Marcelino da Silva;26/11/2020 16:52:45;Milho;;Sementes;Própria;Não Sabe;;200.00;200.00;0.00;0.00
+;;5622;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;474B;;José Marcelino da Silva;26/11/2020 16:52:45;Cana-de-açúcar;;Mudas;Própria;Não;Sim;;;;
+;;5259;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;317;;Juraci Duarte dos Santos;25/11/2020 15:08:24;Mandioca;;Mudas;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;5623;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;473;;Neide Helena Alves de Sousa;26/11/2020 17:52:00;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;5260;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;316;;Maria Raimunda da Costa Sousa;25/11/2020 15:29:51;Abacaxi;;Mudas;Própria;Não;;12,000.00;0.00;12,000.00;3,600.00
+;;5260;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;316;;Maria Raimunda da Costa Sousa;25/11/2020 15:29:51;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;6450;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;506;;Alceu Gomes da Silva Filho;26/11/2020 12:10:52;Mandioca;;Mudas;Própria;;;4,800.00;4,800.00;0.00;0.00
+;;5258;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;315;;Sidnei Magal Batista Nascimento;25/11/2020 13:20:52;Abacaxi;;Ambas;Própria;;;25,000.00;5,000.00;20,000.00;15,000.00
+;;5258;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;315;;Sidnei Magal Batista Nascimento;25/11/2020 13:20:52;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5594;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;363B;;Maria das Neves Barbosa Martins;23/11/2020 11:57:03;Mandioca;;Mudas;Própria;Não;;300.00;150.00;150.00;2,000.00
+;;6245;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;365;;Erasmo Gonzaga da silva;30/11/2020 12:40:29;Abacaxi;;Mudas;Comprada;Não;;10,000.00;0.00;10,000.00;8,000.00
+;;5371;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;435;;José Wilson Teixeira do Nascimento;25/11/2020 18:37:25;Mandioca;;Mudas;Própria;;;24,000.00;200.00;23,800.00;10,000.00
+;;5371;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;435;;José Wilson Teixeira do Nascimento;25/11/2020 18:37:25;Milho;;Sementes;Comprada;Não;;3,600.00;3,600.00;0.00;0.00
+;;5366;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;439;;Luiza Helena da Silva Cruz;21/11/2020 11:48:45;Mandioca;;Mudas;Própria;;;2,000.00;2,000.00;0.00;0.00
+;;5332;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;380;;Marinalva Amorim Silva;25/11/2020 20:19:12;Mandioca;;Mudas;Própria;Não;;22,000.00;22,000.00;0.00;0.00
+;;5332;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;380;;Marinalva Amorim Silva;25/11/2020 20:19:12;Arroz;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5332;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;380;;Marinalva Amorim Silva;25/11/2020 20:19:12;Milho;;Sementes;Comprada;Não;;3,600.00;3,600.00;0.00;0.00
+;;5384;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;440;;Adalton Alves da Silva;21/11/2020 12:25:09;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;5383;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;441;;Weliton Barbosa de Sa;20/11/2020 14:11:03;Abacaxi;;Mudas;Doada;Não Sabe;;15,000.00;500.00;14,500.00;18,000.00
+;;5382;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;442;;Manoel Pereira de Sousa Silva;20/11/2020 13:52:50;Mandioca;;Mudas;Própria;;;5,000.00;5,000.00;0.00;0.00
+;;5050;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;383 e 382;383 e 382;Eduardo De Castro Pereira;29/11/2020 13:50:57;Milho;;Sementes;Comprada;Sim;;0.00;0.00;0.00;0.00
+;;5050;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;383 e 382;383 e 382;Eduardo De Castro Pereira;29/11/2020 13:50:57;Melancia;;Sementes;Comprada;Sim;;0.00;0.00;0.00;0.00
+;;5370;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;412;290;Edmundo da Silva Vieira;21/11/2020 19:47:36;Mandioca;;Mudas;Própria;;;6,200.00;200.00;6,000.00;6,000.00
+;;5499;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;385;385;Thainara Priscila A C R Guimarães De Queiroz;23/11/2020 11:39:54;Sorgo;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5499;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;385;385;Thainara Priscila A C R Guimarães De Queiroz;23/11/2020 11:39:54;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5499;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;385;385;Thainara Priscila A C R Guimarães De Queiroz;23/11/2020 11:39:54;Soja;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5507;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;386;386;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:07:02;Soja;;Sementes;Ambas;Não;Sim;0.00;0.00;0.00;0.00
+;;5507;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;386;386;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:07:02;Sorgo;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5507;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;386;386;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:07:02;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5412;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;446;;Raimundo Gaspar;20/11/2020 12:41:53;Mandioca;;Mudas;Própria;;;5,120.00;5,120.00;0.00;0.00
+;;5498;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;387;387;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:02:47;Sorgo;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5498;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;387;387;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:02:47;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5498;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;387;387;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:02:47;Soja;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5017;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;154;;Elivan Albino de Sousa Chaves;18/11/2020 11:49:16;Mandioca;;Mudas;Própria;;;4,000.00;0.00;4,000.00;5,000.00
+;;5017;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;154;;Elivan Albino de Sousa Chaves;18/11/2020 11:49:16;Abacaxi;;Mudas;Comprada;;;32,400.00;400.00;32,000.00;3,000.00
+;;5342;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;396;;Darci Barbosa Nunes;22/11/2020 14:33:46;Banana;;Mudas;Própria;;Sim;;;;
+;;5342;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;396;;Darci Barbosa Nunes;22/11/2020 14:33:46;Melancia;;Sementes;Comprada;Não;;25,000.00;500.00;24,500.00;15,000.00
+;;5321;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;202;;João Carlos Zanin;19/11/2020 19:56:46;Soja;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5825;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;179;179;Antônio Bezerra De Sousa;24/11/2020 13:32:22;Mandioca;;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;5825;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;179;179;Antônio Bezerra De Sousa;24/11/2020 13:32:22;Abacaxi;;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5020;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;152;;Ruideglan Sousa Costa;18/11/2020 17:31:27;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;5513;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;390;;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 10:45:55;Sorgo;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5513;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;390;;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 10:45:55;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5513;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;390;;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 10:45:55;Soja;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;4985;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;143;;Mirly da Paz Oliveira Reis;14/11/2020 12:20:04;Mamão;;Mudas;Comprada;Não;;600.00;50.00;550.00;1,500.00
+;;4985;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;143;;Mirly da Paz Oliveira Reis;14/11/2020 12:20:04;Maracuja;;Mudas;Própria;Não;Sim;;;;
+;;4975;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;115;;Altamiro Caetano da Silva;17/11/2020 11:06:32;Mandioca;;Mudas;Própria;;;168,000.00;200.00;167,800.00;20,000.00
+;;4977;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;113;;Maria Elza Dias da Silva;17/11/2020 13:28:31;Mandioca;;Mudas;Própria;;;5,000.00;5,000.00;0.00;0.00
+;;4982;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;139;;Ronaldo Leal da Costa;13/11/2020 17:19:49;Banana;;Mudas;Ambas;;Sim;;;;
+;;4940;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;108;108;Lourival Rodrigues Da Silva;13/11/2020 12:22:45;Cupuaçu;;Mudas;Comprada;Não Sabe;Não;1,700.00;100.00;1,600.00;19,200.00
+;;6445;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;541;;Adelaide Soares da Silva;09/11/2020 17:32:52;Abacaxi;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6445;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;541;;Adelaide Soares da Silva;09/11/2020 17:32:52;Mandioca;;Mudas;Própria;;;13,200.00;13,200.00;0.00;0.00
+;;6393;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;563;;Camila Silva Ferreira da Costa;21/11/2020 12:26:09;Abacaxi;;Mudas;Ambas;;;45,000.00;900.00;44,100.00;11,760.00
+;;6393;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;563;;Camila Silva Ferreira da Costa;21/11/2020 12:26:09;Mandioca;;Mudas;Própria;;;27,000.00;27,000.00;0.00;0.00
+;;6252;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;562;;Jose Veloso da Costa;21/11/2020 13:06:32;Mandioca;;Mudas;Própria;;;12,000.00;12,000.00;0.00;0.00
+;;6252;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;562;;Jose Veloso da Costa;21/11/2020 13:06:32;Abacaxi;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;6333;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;682;;Maysa de Oliveira Arruda;02/12/2020 18:51:15;Mandioca;;Mudas;Ambas;;Sim;0.00;0.00;0.00;0.00
+;;6343;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;686;;Dejalma Lopes;01/12/2020 18:50:44;Mandioca;;Mudas;Própria;;Não;11,800.00;11,800.00;0.00;0.00
+;;5036;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;450;450;Raimundo Ferreira da Cruz;20/11/2020 11:37:00;Mandioca;;Mudas;Própria;Não;;4,000.00;4,000.00;0.00;0.00
+;;6431;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;605;;Doralice Nunes da Silva;19/11/2020 12:00:30;Abacaxi;;Mudas;Própria;;;1,740.00;320.00;1,420.00;720.00
+;;4987;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;124;;Algemiro de Almeida Bandeira;17/11/2020 17:31:07;Mandioca;;Mudas;Própria;;;2,500.00;500.00;2,000.00;4,000.00
+;;5355;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;744;;Adriana Roseno de Lima;26/11/2020 14:27:26;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5232;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;309;;José Carlos Duarte dos Santos;25/11/2020 14:41:02;Abacaxi;;Mudas;Própria;Não;;1,000.00;0.00;1,000.00;1,000.00
+;;5556;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;445;;José Barbosa Lima;20/11/2020 12:53:18;Mandioca;;Mudas;Própria;;;10,000.00;10,000.00;0.00;0.00
+;;5545;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;519;;Josicleia da Silva Barroso;01/12/2020 17:18:01;Milho;;Sementes;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;5655;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;522;522;Ivaldo Alves de Araújo;20/11/2020 17:28:04;Mandioca;;Mudas;Própria;Não;;3,200.00;3,200.00;0.00;0.00
+;;5224;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;540;;Antonio Edvaldo do Nascimento Silva;14/11/2020 18:16:59;Mandioca;;Mudas;Própria;;;2,500.00;2,500.00;0.00;0.00
+;;6370;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;585;;Rosilda Sebatiana da Silva;25/11/2020 13:44:34;Mandioca;;Mudas;Própria;;;18,000.00;18,000.00;0.00;0.00
+;;5261;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;313;;Ana Alves Teixeira;25/11/2020 16:57:22;Mandioca;;Mudas;Própria;;;250.00;250.00;0.00;0.00
+;;5508;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;203;203;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:22:43;Sorgo;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5508;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;203;203;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:22:43;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5508;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;203;203;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 11:22:43;Soja;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;6253;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;575;;Coraci Pereira da Silva;24/11/2020 12:26:42;Mandioca;;Mudas;Própria;;;15,000.00;15,000.00;0.00;0.00
+;;5388;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;469;;Danilo Francisco Pereira;24/11/2020 17:00:33;Mandioca;;Mudas;Própria;;;2,500.00;2,500.00;0.00;0.00
+;;5388;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;469;;Danilo Francisco Pereira;24/11/2020 17:00:33;Arroz;;Sementes;Própria;Não;;300.00;300.00;0.00;0.00
+;;5491;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;466;857;Francisca Conceição de Sousa correa;23/11/2020 11:17:19;Banana;;Mudas;Comprada;Não;Não;1,920.00;0.00;1,920.00;7,680.00
+;;5497;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;388;388;Thainara Priscila A C R Guimarães  de Queiroz;21/11/2020 18:40:17;Soja;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5196;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;765;108;JOAQUINA GOMES TAVARES;26/11/2020 13:47:14;Abacaxi;;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5196;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;765;108;JOAQUINA GOMES TAVARES;26/11/2020 13:47:14;Mandioca;;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5752;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;766;;DELMA GOMES TAVARES DA SILVA;27/11/2020 10:39:22;Mandioca;;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5497;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;388;388;Thainara Priscila A C R Guimarães  de Queiroz;21/11/2020 18:40:17;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5497;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;388;388;Thainara Priscila A C R Guimarães  de Queiroz;21/11/2020 18:40:17;Sorgo;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5553;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;775;;ELZA LIMA TORRES;25/11/2020 11:30:30;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5476;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;774;;Cloves Lucindo dos Santos;25/11/2020 11:07:03;Milho;;Sementes;Comprada;Não;;4,000.00;4,000.00;0.00;0.00
+;;5476;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;774;;Cloves Lucindo dos Santos;25/11/2020 11:07:03;Mandioca;;Mudas;Própria;Não;;5,775.00;5,775.00;0.00;0.00
+;;5570;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;773;;RAIMUNDA MARQUES DE SOUZA;19/11/2020 14:25:16;Mandioca;;Mudas;Própria;Não;;800.00;40.00;760.00;2,000.00
+;;6432;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;680;;Valdina Rocha Ramos;02/12/2020 14:28:50;Mandioca;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6007;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;600;;Noemia Alves de Araujo;19/11/2020 15:27:29;Mandioca;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;5756;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;785;;Jandryellves da Silva Cruz;25/11/2020 13:55:44;Banana;;Mudas;Doada;Não;Sim;;;;
+;;5756;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;785;;Jandryellves da Silva Cruz;25/11/2020 13:55:44;Milho;;Sementes;Própria;Não;;1,300.00;650.00;650.00;0.00
+;;5756;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;785;;Jandryellves da Silva Cruz;25/11/2020 13:55:44;Mandioca;;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;5267;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;786;;Adílio Botelho da Silva;25/11/2020 15:07:16;Mandioca;;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;5620;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;788;;SEBASTIÃO NOVAES DOS SANTOS;25/11/2020 15:45:39;Milho;;Sementes;Comprada;Não;;2,700.00;2,700.00;0.00;0.00
+;;5762;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;790;;Doraci Maria de Jesus Pereira;25/11/2020 16:23:28;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5247;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;185;185;Zacarias Bispo Madeira;18/11/2020 11:45:25;Mandioca;;Mudas;Própria;Não Sabe;;30.00;10.00;20.00;10.00
+;;5586;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;509;;Dorismar Ribeiro Moura;26/11/2020 20:04:29;Mandioca;;Mudas;Própria;Não;;1,500.00;1,500.00;0.00;0.00
+;;5601;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;314;;Adevaldo Gomes Pereira;25/11/2020 14:01:35;Abacaxi;;Mudas;Própria;;;20,400.00;100.00;20,300.00;17,000.00
+;;5198;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;204;;MARIA TELMA EVANGELISTA DA SILVA;03/12/2020 12:22:23;Cana-de-açúcar;;Mudas;Própria;Não;Sim;;;;
+;;6366;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;573;;Vilma Valadares da Silva Gomes;21/11/2020 11:00:14;Mandioca;;Mudas;Própria;;;25,000.00;25,000.00;0.00;0.00
+;;6044;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;658;;Eliene Ribeiro de Oliveira;27/11/2020 14:14:08;Mandioca;;Mudas;Ambas;;Sim;0.00;0.00;0.00;0.00
+;;6087;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;671;;Salvador Casimiro da Silva;02/12/2020 18:25:13;Mandioca;;Mudas;Própria;;;2,900.00;2,900.00;0.00;0.00
+;;5101;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;206;;ROSIMAR CIPRIANO DA SILVA;01/12/2020 23:06:45;Abacaxi;;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;6132;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;209;209;Raimundo Manoel dos Santos;24/11/2020 19:57:26;Banana;;Mudas;Própria;Não;Não;5,520.00;0.00;5,520.00;8,280.00
+;;5601;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;314;;Adevaldo Gomes Pereira;25/11/2020 14:01:35;Mandioca;;Mudas;Própria;;;10,000.00;10,000.00;0.00;0.00
+;;5595;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;362;;Elisângela Matos de Oliveira;23/11/2020 13:26:14;Mandioca;;Mudas;Própria;Não;;300.00;100.00;200.00;2,000.00
+;;5226;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;210;;Braz Aragão de Lima;19/11/2020 14:53:54;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5993;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;576;;Francisco Martins Ferreira;21/11/2020 15:07:29;Mandioca;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;5988;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;570;40;Alessandro Alves de Sousa;21/11/2020 13:33:46;Abacaxi;;Mudas;Comprada;;Sim;0.00;0.00;0.00;0.00
+;;5519;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;530;530;Cincinato Elias Do Nascimento;21/11/2020 11:03:55;Mandioca;;Mudas;Própria;Não;;3,200.00;0.00;3,200.00;6,000.00
+;;5467;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;355;;Bartolomeu Folhas dos Santos;24/11/2020 12:06:07;Mandioca;;Mudas;Doada;Não;;9,000.00;9,000.00;0.00;0.00
+;;5585;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;500;;Rosa Ferreira Sousa;20/11/2020 18:35:35;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;5006;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;281;;Jose Wilama Gomes de Souza;19/11/2020 16:00:53;Milho;;Sementes;Comprada;Não;;2,000.00;2,000.00;0.00;0.00
+;;5006;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;281;;Jose Wilama Gomes de Souza;19/11/2020 16:00:53;Arroz;;Sementes;Doada;Não;Sim;0.00;0.00;0.00;0.00
+;;5185;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;289;;Juares Miranda Luz;21/11/2020 13:45:22;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;6012;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;577;;Francisca Nascimento de Souza;17/11/2020 21:32:31;Abacaxi;;Mudas;Comprada;;;0.00;0.00;0.00;0.00
+;;6207;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;578;;Jose Carlos Bezerra de Morais;17/11/2020 12:43:35;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;5008;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;701A;;Maria Aparecida Vieira dos Santos Silva;28/11/2020 18:24:16;Milho;;Sementes;Comprada;Não;;5,000.00;5,000.00;0.00;0.00
+;;6428;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;548;;Irismagno da Silva Monteiro;09/11/2020 17:48:47;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;5514;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;389;;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 10:55:25;Soja;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5538;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;491;;Marcos Antônio de Souza Santos;20/11/2020 12:22:05;Mandioca;;Mudas;Própria;Não;;6,000.00;6,000.00;0.00;0.00
+;;5721;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;722;;Terezinha do Carmo de Jesus Neres;27/11/2020 18:10:01;Milho;;Sementes;Comprada;Não;;4,800.00;4,800.00;0.00;0.00
+;;5253;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;81;;Valdenor Rodrigues Da Silva;19/11/2020 19:02:20;Mandioca;;Mudas;Própria;;;5,000.00;5,000.00;0.00;0.00
+;;5217;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;80;;Maria Janieli de Oliveira Gomes;19/11/2020 14:57:47;Mandioca;;Mudas;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;6336;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;91;;Marinalva Cassimiro da Silva;03/12/2020 20:36:59;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;5472;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;753;;Lucimar Pereira de Souza;25/11/2020 17:36:46;Mandioca;;Mudas;Própria;Não;;12,000.00;12,000.00;0.00;0.00
+;;5245;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;759;;Claudemar Ferreira Dias;25/11/2020 15:09:11;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;6334;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;692;;Valcy Pereira de Oliveira;01/12/2020 12:50:32;Mandioca;;Mudas;Ambas;;Sim;0.00;0.00;0.00;0.00
+;;6058;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;696;;Antônio Erenildo Gomes de Oliveira;01/12/2020 17:28:35;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;6059;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;693;;Jose Carlos Rodrigues;02/12/2020 12:42:53;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;6346;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;654;;Albertina da Cunha Santana;27/11/2020 14:27:22;Abacaxi;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;5488;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;242;;Vanilde Lezita Belda Lira;17/11/2020 15:52:43;Mandioca;;Mudas;Própria;Sim;;6,000.00;6,000.00;0.00;0.00
+;;5754;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;241;;José dos Santos Pereira Nonato;17/11/2020 13:35:42;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5517;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;105;105;Izidio Lisboa De Souza;13/11/2020 13:46:42;Milho;;Mudas;Própria;Não;;900.00;0.00;900.00;450.00
+;;6179;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;496;;Carlos de Souza Silva;20/11/2020 15:57:26;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5984;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;569;;Antonia Rodrigues Lima;21/11/2020 12:26:59;Caju;;Mudas;Própria;;Sim;;;;
+;;6213;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;697;;Jose Erinaldo Gomes de Oliveira;01/12/2020 19:05:50;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;5989;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;545;;Osman Souza de Oliveira;18/11/2020 12:01:39;Mandioca;;Mudas;Própria;;;2,700.00;2,700.00;0.00;0.00
+;;5550;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;760;;LUZIMAR VIANA ARAUJO;26/11/2020 11:39:40;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6077;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;698;;Miguel Souza Lisboa;03/12/2020 15:32:51;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;6076;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;699;;Veronço Reis Oliveira Rocha;02/12/2020 13:55:42;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;6248;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;632;;Neudi Slongo;26/11/2020 16:16:26;Mandioca;;Mudas;Própria;;;16,000.00;16,000.00;0.00;0.00
+;;5281;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;750;;Antônio Pereira Santos;26/11/2020 11:38:51;Abacaxi;;Mudas;Própria;Não;;9,600.00;0.00;9,600.00;4,000.00
+;;5281;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;750;;Antônio Pereira Santos;26/11/2020 11:38:51;Mandioca;;Mudas;Própria;Não;;9,000.00;9,000.00;0.00;0.00
+;;5338;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;748;;Neucivaldo Pereira da Silva;26/11/2020 12:43:01;Mandioca;;Mudas;Própria;Não;;4,500.00;4,500.00;0.00;0.00
+;;5231;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;310;;Lucas Pires dos Santos;25/11/2020 12:19:51;Abacaxi;;Mudas;Própria;;;500.00;100.00;400.00;320.00
+;;5210;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;705;;JOSE DA GUIA DO NASCIMENTO;28/11/2020 16:53:27;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5190;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;703;;Rosa Farias da Silva;28/11/2020 17:44:56;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;5324;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;378;;Lino Neves da Luz;28/11/2020 16:59:00;Mandioca;;Mudas;Própria;;;5,000.00;500.00;4,500.00;4,500.00
+;;5233;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;312;;Israel de Souza Barbosa;25/11/2020 16:23:04;Abacaxi;;Mudas;Própria;Não;;12,000.00;0.00;12,000.00;14,400.00
+;;5826;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;212;212;Rosimar Rocha da Silva;25/11/2020 13:21:48;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6366;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;573;;Vilma Valadares da Silva Gomes;21/11/2020 11:00:14;Abacaxi;;Mudas;Própria;;;37,500.00;500.00;37,000.00;10,500.00
+;;6442;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;532;;Maria das Dores Lima;09/11/2020 17:56:41;Abacaxi;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;5987;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;539;;Carlos Alberto da Silva Cardoso;14/11/2020 18:34:54;Abacaxi;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;5492;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;221A;;Jenivaldo José da Silva;22/11/2020 13:06:33;Milho;;Sementes;Comprada;Não;;1,000.00;1,000.00;0.00;0.00
+;;6211;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;629;;Solon Bezerra de Souza;28/11/2020 16:22:19;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;5014;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;146;;Joaquim Fernandes de Lima;18/11/2020 14:14:39;Abacaxi;;Mudas;Comprada;;;15,000.00;120.00;14,880.00;6,000.00
+;;5014;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;146;;Joaquim Fernandes de Lima;18/11/2020 14:14:39;Banana;;Mudas;Comprada;;Sim;;;;
+;;5518;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;529;529;Sirlei Neuta Costa;20/11/2020 19:50:01;Abacaxi;;Mudas;Doada;Não;Sim;0.00;0.00;0.00;0.00
+;;5003;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;09;;Marinaldo Silva Araujo;22/11/2020 16:58:19;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;6019;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;619;;Valdeci Luiz Gomes;19/11/2020 12:44:46;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;5228;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;213;;Ataídes Zapani;22/11/2020 12:25:26;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5547;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;225;;Eva Ferreira Cirqueira;17/11/2020 19:09:49;Mandioca;;Mudas;Própria;Não;;60,000.00;60,000.00;0.00;8.00
+;;5195;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;226;;Elisangela Castro da Silva;17/11/2020 19:19:10;Mandioca;;Mudas;Própria;Não;;6,000.00;6,000.00;0.00;0.00
+;;4947;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;03;;Maria do Socorro Alves de Macedo;23/11/2020 13:20:46;Mandioca;;Mudas;Própria;;;5,000.00;50.00;4,950.00;1,500.00
+;;5613;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;261;;Francisco Jeová Bezerra Lo;18/11/2020 20:06:38;Mandioca;;Mudas;Própria;Não;;19,200.00;80.00;19,120.00;0.00
+;;5457;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;518;;Davi Pereira da Silva;21/11/2020 11:00:13;Mandioca;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;5030;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;535;030;Maria Batista Mascarenha Da Costa;14/11/2020 01:01:36;Mandioca;;Mudas;Própria;;;15,000.00;15,000.00;0.00;0.00
+;;5030;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;535;030;Maria Batista Mascarenha Da Costa;14/11/2020 01:01:36;Abacaxi;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;6220;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;622;;Cleberson da Silva Araujo;20/11/2020 19:28:23;Mandioca;;Mudas;Própria;;;24,000.00;24,000.00;0.00;0.00
+;;6369;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;586;;Maria Aparecida Pereira;25/11/2020 16:32:54;Mandioca;;Mudas;Própria;;;6,000.00;300.00;5,700.00;5,200.00
+;;5674;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;736;815;Ruth dos Santos Teixeiras;28/11/2020 18:19:06;Mandioca;;Mudas;Própria;Não;;1.00;1.00;0.00;0.00
+;;5248;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;216;216;Fabiana Ribeiro da Silva;18/11/2020 16:52:31;Outros;Limão taiti;Mudas;Comprada;Não Sabe;;0.00;0.00;0.00;0.00
+;;5248;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;216;216;Fabiana Ribeiro da Silva;18/11/2020 16:52:31;Outros;Coco anão;Mudas;Comprada;Não Sabe;;0.00;0.00;0.00;0.00
+;;5248;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;216;216;Fabiana Ribeiro da Silva;18/11/2020 16:52:31;Maracuja;;Mudas;Comprada;Não Sabe;Sim;;;;
+;;6184;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;219;;Antônio Ferreira da Costa;22/11/2020 13:50:43;Mandioca;;Mudas;Própria;Não;;6,000.00;6,000.00;0.00;0.00
+;;6030;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;627;;Claudemir Alves da Silva;19/11/2020 14:23:13;Abacaxi;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;6184;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;219;;Antônio Ferreira da Costa;22/11/2020 13:50:43;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;6180;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;220;;Marli Aparecida Levandovski de Castro;22/11/2020 11:13:17;Milho;;Sementes;Comprada;Não;;500.00;500.00;0.00;0.00
+;;6032;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;634A;;Divino Eterno de Jesus Silva;19/11/2020 19:09:45;Mandioca;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6342;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;678;;Lucia Ferreira da Silva Penha;27/11/2020 13:51:51;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;6180;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;220;;Marli Aparecida Levandovski de Castro;22/11/2020 11:13:17;Feijão;;Sementes;Comprada;Não;;240.00;240.00;0.00;0.00
+;;6180;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;220;;Marli Aparecida Levandovski de Castro;22/11/2020 11:13:17;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;5388;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;469;;Danilo Francisco Pereira;24/11/2020 17:00:33;Milho;;Sementes;Própria;Não;;180.00;180.00;0.00;0.00
+;;5741;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;433;433;Adalcimar Lopes da Silva;25/11/2020 19:52:51;Mandioca;;Mudas;Própria;Não;;3,200.00;0.00;3,200.00;6,000.00
+;;5573;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;260;;José Maria  Alves Rodrigues;18/11/2020 18:43:54;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5021;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;164;;Pedro Paulo Coelho Cirqueira;14/11/2020 14:00:47;Mandioca;;Mudas;Própria;;;3,000.00;500.00;2,500.00;2,500.00
+;;5558;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;463;;Moacir Caetano da Silva;25/11/2020 19:25:34;Banana;;Mudas;Própria;;Sim;;;;
+;;5611;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;520;;Sandra Rodrigues Lima da Luz;01/12/2020 15:56:05;Mandioca;;Mudas;Própria;Não;;9,000.00;9,000.00;0.00;0.00
+;;4983;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;132;;Gilberto de Jesus Matos;13/11/2020 19:20:51;Milho;;Sementes;Própria;;;700.00;700.00;0.00;0.00
+;;6238;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;501;;Lucilene Pereira da Silva Franca;20/11/2020 19:39:42;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5597;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;361A;;Evistayle Vieira de Sousa;23/11/2020 15:20:48;Mandioca;;Mudas;Própria;Não;;1,200.00;600.00;600.00;300.00
+;;5477;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;228;;Maria do Socorro Barbosa Lima;17/11/2020 18:08:28;Mandioca;;Mudas;Própria;Não;;2,000.00;2,000.00;0.00;0.00
+;;4983;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;132;;Gilberto de Jesus Matos;13/11/2020 19:20:51;Mandioca;;Mudas;Própria;;;450.00;50.00;400.00;1,000.00
+;;5016;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;144;;Andreia Moura Souza;19/11/2020 13:03:01;Soja;;Sementes;Comprada;Não;;75,000.00;12,000.00;63,000.00;96,000.00
+;;5364;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;742;;Rosirene Ferreira da Silva;23/11/2020 19:53:04;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;5279;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;332;;João Batista Gonçalves dos Santos;21/11/2020 15:08:34;Mandioca;;Mudas;Própria;;;400.00;400.00;0.00;0.00
+;;6241;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;498;;Maria Aparecida Silva Wanderley Lopes;26/11/2020 13:14:28;Mandioca;;Mudas;Própria;Não;;4,500.00;4,500.00;0.00;0.00
+;;5234;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;229;;Solange da Silva;28/11/2020 17:24:25;Cana-de-açúcar;;Mudas;Própria;;Não;3,000.00;3,000.00;0.00;0.00
+;;5234;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;229;;Solange da Silva;28/11/2020 17:24:25;Limão;;Mudas;Própria;;Sim;;;;
+;;5234;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;229;;Solange da Silva;28/11/2020 17:24:25;Banana;;Mudas;Própria;;Não;1,000.00;500.00;500.00;500.00
+;;5627;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;366;;Valmir Alves Maranhão;28/11/2020 18:18:37;Cana-de-açúcar;;Mudas;Própria;;Sim;;;;
+;;5627;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;366;;Valmir Alves Maranhão;28/11/2020 18:18:37;Mandioca;;Mudas;Própria;;;1,500.00;1,500.00;0.00;0.00
+;;5236;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;708;;ADONEL PEREIRA DOS REIS;28/11/2020 14:59:01;Mandioca;;Mudas;Própria;Não;Sim;0.00;0.00;0.00;0.00
+;;6240;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;486;;Maria dos Anjos Ribeiros dos Santos;26/11/2020 12:33:13;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5234;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;229;;Solange da Silva;28/11/2020 17:24:25;Mandioca;;Mudas;Própria;;;7,500.00;0.00;7,500.00;1,500.00
+;;5545;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;519;;Josicleia da Silva Barroso;01/12/2020 17:18:01;Mandioca;;Mudas;Própria;Não;;9,000.00;9,000.00;0.00;0.00
+;;5206;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;126;;Cláudia Maria de Jesus Neta;18/11/2020 19:50:12;Abacaxi;;Mudas;Própria;;;15,000.00;120.00;14,880.00;14,880.00
+;;6193;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;508;;Francisco Atair Barbosa;26/11/2020 17:23:37;Cana-de-açúcar;;Mudas;Doada;Não;Sim;;;;
+;;6193;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;508;;Francisco Atair Barbosa;26/11/2020 17:23:37;Banana;;Mudas;Comprada;Não;Sim;;;;
+;;6210;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;672;;Felix Monteiro da Silva;28/11/2020 13:02:37;Mandioca;;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;5770;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;244;;Clediomar Pereira da Silva;18/11/2020 10:58:20;Alface;;Sementes;Própria;Não;;960.00;20.00;940.00;3,700.00
+;;6219;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;571;;Vanete Souza dos Anjos;24/11/2020 17:32:44;Mandioca;;Mudas;Própria;;;29,700.00;29,700.00;0.00;0.00
+;;6219;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;571;;Vanete Souza dos Anjos;24/11/2020 17:32:44;Abacaxi;;Mudas;Própria;;;37,500.00;500.00;37,000.00;9,800.00
+;;5206;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;126;;Cláudia Maria de Jesus Neta;18/11/2020 19:50:12;Milho;;Sementes;Comprada;Não;;1,500.00;1,500.00;0.00;0.00
+;;5630;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;372;;Samuel Costa da Silva;30/11/2020 16:04:37;Mandioca;;Mudas;Própria;Não;;900.00;900.00;0.00;0.00
+;;5628;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;431;;Naziozene Dias de Carvalho Maranhão;28/11/2020 19:24:30;Cana-de-açúcar;;Mudas;Própria;;Sim;;;;
+;;5628;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;431;;Naziozene Dias de Carvalho Maranhão;28/11/2020 19:24:30;Banana;;Mudas;Própria;Não;Sim;;;;
+;;5046;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;245;640;Amancio Horácio de Freitas Neto;18/11/2020 12:48:26;Mandioca;;Mudas;Própria;Não;;960.00;960.00;0.00;0.00
+;;5628;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;431;;Naziozene Dias de Carvalho Maranhão;28/11/2020 19:24:30;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5626;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;465;;Rodrigo Rodrigues Guida;28/11/2020 16:29:45;Mandioca;;Mudas;Própria;;;2,400.00;2,400.00;0.00;0.00
+;;5764;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;718;;Jadson de Sousa Almeida;27/11/2020 17:18:02;Mandioca;;Mudas;Doada;Não;;600.00;600.00;0.00;0.00
+;;6354;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;517;;Eliana Alves de Araujo;04/12/2020 16:22:32;Mandioca;;Mudas;Própria;;;72,000.00;72,000.00;0.00;0.00
+;;5115;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;221;450;Ernestina da Silva Penha;22/11/2020 12:49:43;Milho;;Sementes;Comprada;Não;;800.00;800.00;0.00;0.00
+;;5246;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;183;;Josivaldo Alves Pereira;18/11/2020 10:55:08;Mandioca;;Mudas;Própria;Não Sabe;;500.00;500.00;0.00;0.00
+;;6439;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;611A;;Zilma Cruz de Carvalho;30/11/2020 11:33:28;Mandioca;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;5625;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;474;;José Correia Lima;27/11/2020 16:24:34;Milho;;Sementes;Própria;Não;;1,250.00;250.00;1,000.00;3,500.00
+;;5625;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;474;;José Correia Lima;27/11/2020 16:24:34;Banana;;Mudas;Própria;Não;Não;150.00;150.00;0.00;0.00
+;;5626;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;465;;Rodrigo Rodrigues Guida;28/11/2020 16:29:45;Milho;;Sementes;Própria;Não;;800.00;800.00;0.00;0.00
+;;5617;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;430;;Miguel Lopes de Araujo;24/11/2020 18:12:29;Mandioca;;Mudas;Própria;;;2,000.00;2,000.00;0.00;0.00
+;;6242;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;472;;Ednaldo Rodrigues da Silva;28/11/2020 12:00:07;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5587;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;512;;Francisco Pereira Soares;28/11/2020 14:39:21;Mandioca;;Mudas;Própria;;;2,000.00;2,000.00;0.00;0.00
+;;5405;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;98A;;Maria Nunes dos Santos;20/11/2020 17:58:38;Mandioca;;Mudas;Doada;;;1,500.00;1,500.00;0.00;0.00
+;;6368;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;618;;Marival Alves Soares;19/11/2020 16:46:19;Mandioca;;Mudas;Própria;;;24,000.00;24,000.00;0.00;0.00
+;;5545;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;519;;Josicleia da Silva Barroso;01/12/2020 17:18:01;Abacaxi;;Mudas;Própria;Não;;20,000.00;0.00;20,000.00;20,000.00
+;;5116;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;15;;Wellington Rodrigues Olímpio;23/11/2020 18:59:15;Abacaxi;;Mudas;Própria;;;11,000.00;100.00;10,900.00;7,000.00
+;;5116;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;15;;Wellington Rodrigues Olímpio;23/11/2020 18:59:15;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;5405;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;98A;;Maria Nunes dos Santos;20/11/2020 17:58:38;Banana;;Mudas;Doada;;Sim;;;;
+;;5054;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;14;;Santana Cubas de Aguiar;23/11/2020 19:52:10;Abacaxi;;Mudas;Própria;;;500.00;500.00;0.00;0.00
+;;5405;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;98A;;Maria Nunes dos Santos;20/11/2020 17:58:38;Outros;Cacau;Sementes;Própria;;;0.00;0.00;0.00;0.00
+;;4920;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;353;;José Wilson da Silva Santos;21/11/2020 18:33:16;Mandioca;;Mudas;Própria;Não;;500.00;500.00;0.00;0.00
+;;5009;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;10;14;Marinalva Rodrigues da Silva;22/11/2020 17:20:07;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;4931;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;20;;José Filho Caetano de Alencar;21/11/2020 12:55:15;Abacaxi;;Mudas;Comprada;;;0.00;0.00;0.00;0.00
+;;4901;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;64;;Antônio Pereira de Macedo;16/11/2020 17:52:00;Mandioca;;Mudas;Própria;;Sim;0.00;0.00;0.00;0.00
+;;5095;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;238;637;Eva Ribeiro dos Santos;17/11/2020 18:32:26;Mandioca;;Mudas;Doada;Não;;6,000.00;6,000.00;0.00;0.00
+;;6327;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;643;;Sonia da Silva Oliveira;27/11/2020 12:59:57;Mandioca;;Mudas;Ambas;;Sim;0.00;0.00;0.00;0.00
+;;6340;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;640;;Andreia Carvalho do Nascimento;30/11/2020 15:52:48;Mandioca;;Mudas;Própria;;;48,000.00;48,000.00;0.00;0.00
+;;5315;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;94;;Dalva da Silva de Sousa;20/11/2020 14:01:20;Mandioca;;Mudas;Própria;;;36,000.00;36,000.00;0.00;0.00
+;;5463;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;515A;;Maria da Guia Vieira de Sousa;04/12/2020 11:50:41;Mandioca;;Mudas;Doada;Não;;4,500.00;0.00;4,500.00;1,500.00
+;;5154;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;377A;;ALDINE GOMES DA SILVA;02/12/2020 12:19:12;Mandioca;;Mudas;Doada;Não;;720.00;720.00;0.00;0.00
+;;6341;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;648;;Divando de Paula Correa;30/11/2020 13:36:41;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;5320;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;194A;;Vinícius Costa Souza;16/11/2020 15:47:53;Mamão;;Mudas;Própria;;;820.00;120.00;700.00;1,400.00
+;;5320;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;194A;;Vinícius Costa Souza;16/11/2020 15:47:53;Banana;;Mudas;Doada;;Não;4,000.00;160.00;3,840.00;7,680.00
+;;5512;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;202A;;Thainara Priscila A. C. R. Guimarães de Queiroz;23/11/2020 10:40:26;Soja;;Sementes;Comprada;Não;;810,000.00;10,000.00;800,000.00;900,000.00
+;;5512;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;202A;;Thainara Priscila A. C. R. Guimarães de Queiroz;23/11/2020 10:40:26;Milho;;Sementes;Própria;Não;;1,610,000.00;10,000.00;1,600,000.00;400,000.00
+;;5512;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;202A;;Thainara Priscila A. C. R. Guimarães de Queiroz;23/11/2020 10:40:26;Sorgo;;Sementes;Comprada;Não;;24,000.00;24,000.00;0.00;0.00
+;;5153;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;214;;Creusa de Sousa Melo;02/12/2020 13:32:59;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;5089;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;285;;Amado Alcântara Ribeiro;19/11/2020 11:26:35;Milho;;Sementes;Doada;Não;;0.00;0.00;0.00;0.00
+;;4962;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;38;;Divina Fernandes Gomes;14/11/2020 11:20:43;Mandioca;;Mudas;Própria;;;12,500.00;12,500.00;0.00;0.00
+;;5468;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;287;;Roni Von Alves de Araújo;21/11/2020 12:56:21;Mandioca;;Mudas;Própria;Não;;6,000.00;6,000.00;0.00;0.00
+;;5543;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;288;;LEONARDO ALVES DE ARAUJO;21/11/2020 13:35:09;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6237;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;490;;Constantino Rodrigues da Silva;18/11/2020 18:14:41;Mandioca;;Mudas;Doada;Não;;9,000.00;9,000.00;0.00;0.00
+;;4973;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;46;40;Silvia Ribeiro Cardoso de Carvalho;13/11/2020 19:41:28;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;4988;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;47;39;Rosicleia Moreira da S Cardoso;13/11/2020 19:54:58;Abacaxi;;Mudas;Comprada;;;8,000.00;400.00;7,600.00;4,000.00
+;;5514;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;389;;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 10:55:25;Sorgo;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;5514;PA;Conceição do Araguaia;MB0119000;PA PE JOSIMO TAVARES;389;;Thainara Priscila A C R Guimarães de Queiroz;23/11/2020 10:55:25;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;4734;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;265A;;Luis Augusto Dias;27/10/2020 17:31:05;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;4561;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;268;;Horácio Sobrinho Neves de Sousa;26/10/2020 11:47:52;Milho;;Sementes;Comprada;;;5,000.00;5,000.00;0.00;0.00
+;;4561;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;268;;Horácio Sobrinho Neves de Sousa;26/10/2020 11:47:52;Mandioca;;Mudas;Própria;;;20,000.00;20,000.00;0.00;0.00
+;;4557;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;277;;Tapata Pamela da Silva Goulart;27/10/2020 17:45:37;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;4557;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;277;;Tapata Pamela da Silva Goulart;27/10/2020 17:45:37;Feijão;;Sementes;Própria;;;500.00;100.00;400.00;800.00
+;;4557;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;277;;Tapata Pamela da Silva Goulart;27/10/2020 17:45:37;Cana-de-açúcar;;Mudas;Própria;;Não;10,000.00;10,000.00;0.00;0.00
+;;4734;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;265A;;Luis Augusto Dias;27/10/2020 17:31:05;Feijão;;Sementes;Própria;;;240.00;6.00;234.00;1,170.00
+;;4701;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;378;;Elizete Pereira do Carmo;29/10/2020 18:19:14;Milho;;Sementes;Comprada;Não;;2,000.00;2,000.00;0.00;0.00
+;;4755;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;304;;Rogério Aurélio Viana;27/10/2020 12:16:54;Milho;;Sementes;Comprada;;;1,500.00;1,500.00;0.00;0.00
+;;4672;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;297;;Adryan Sammuel Weslley Coelho Cavalcante;28/10/2020 11:05:17;Milho;;Sementes;Comprada;;;600.00;600.00;0.00;0.00
+;;4672;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;297;;Adryan Sammuel Weslley Coelho Cavalcante;28/10/2020 11:05:17;Mandioca;;Mudas;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;4625;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;344;;José Ilson Carneiro;27/10/2020 20:01:15;Milho;;Sementes;Comprada;;;2,500.00;2,500.00;0.00;0.00
+;;4755;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;304;;Rogério Aurélio Viana;27/10/2020 12:16:54;Mandioca;;Mudas;Própria;;;500.00;500.00;0.00;0.00
+;;4737;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;305;;Layanne Silva de Araújo;24/10/2020 14:36:24;Milho;;Sementes;Comprada;;;1,200.00;1,200.00;0.00;0.00
+;;4689;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;288;;Wilton Tavares;28/10/2020 13:38:52;Milho;;Sementes;Comprada;;;350.00;350.00;0.00;0.00
+;;4689;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;288;;Wilton Tavares;28/10/2020 13:38:52;Outros;Fava;Sementes;Comprada;;;250.00;250.00;0.00;0.00
+;;4736;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;S1D;;Rui Taveira Freire;28/10/2020 11:40:03;Milho;;Sementes;Própria;Não;;600.00;600.00;0.00;0.00
+;;4736;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;S1D;;Rui Taveira Freire;28/10/2020 11:40:03;Mandioca;;Mudas;Própria;;;1,000.00;500.00;500.00;500.00
+;;4878;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;137;137;Algmar Almeida de Souza;27/10/2020 10:52:02;Milho;;Sementes;Comprada;Não;;1,800.00;300.00;1,500.00;1,800.00
+;;4878;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;137;137;Algmar Almeida de Souza;27/10/2020 10:52:02;Cebola;;Mudas;Própria;Não;;140.00;15.00;125.00;420.00
+;;4878;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;137;137;Algmar Almeida de Souza;27/10/2020 10:52:02;Alface;;Sementes;Comprada;Não;;150.00;10.00;140.00;420.00
+;;4736;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;S1D;;Rui Taveira Freire;28/10/2020 11:40:03;Batata Doce;;Mudas;Própria;;;100.00;100.00;0.00;0.00
+;;4671;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;298;;Divina Simone Viana;27/10/2020 10:40:05;Milho;;Sementes;Comprada;;;1,800.00;1,800.00;0.00;0.00
+;;4816;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;157;;Leonor Dias Santana;30/10/2020 17:39:30;Melancia;;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;4816;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;157;;Leonor Dias Santana;30/10/2020 17:39:30;Mandioca;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;4878;PA;Cumaru do Norte;MB0083000;PA MATA VERDE;137;137;Algmar Almeida de Souza;27/10/2020 10:52:02;Melancia;;Sementes;Comprada;Não;;12,200.00;200.00;12,000.00;13,000.00
+;;7954;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;665;;Jonas Povoas da Cunha;27/04/2021 18:43:39;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;9007;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;118;118;Cleilson Barbosa dos Santos;06/05/2021 15:07:39;Outros;Mexerica;Sementes;Própria;;;2,000.00;0.00;2,000.00;2,500.00
+;;8781;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;591;;Maria José Alves de Oliveira;04/05/2021 17:40:24;Cana-de-açúcar;;Mudas;Própria;Não;Sim;;;;
+;;8781;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;591;;Maria José Alves de Oliveira;04/05/2021 17:40:24;Outros;BTS CAPIMASUL;Mudas;Doada;Não;;60,000.00;60,000.00;0.00;0.00
+;;8781;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;591;;Maria José Alves de Oliveira;04/05/2021 17:40:24;Outros;Mexirica;Mudas;Comprada;Não;;2,300.00;2,300.00;0.00;0.00
+;;8781;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;591;;Maria José Alves de Oliveira;04/05/2021 17:40:24;Milho;;Sementes;Comprada;Não;;7,500.00;7,500.00;0.00;0.00
+;;8781;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;591;;Maria José Alves de Oliveira;04/05/2021 17:40:24;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;8570;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;113;;Luiz Carlos Barbosa;03/05/2021 16:38:31;Abacaxi;;Mudas;Própria;;;240,100.00;100.00;240,000.00;480,000.00
+;;9015;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;577;;Christiane Dias da Silva;03/05/2021 15:31:38;Outros;Mexirica;Mudas;Comprada;Não;;500.00;0.00;500.00;625.00
+;;8231;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;181;;Marilene Dias da Silva;03/05/2021 15:16:52;Outros;Coco;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;8231;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;181;;Marilene Dias da Silva;03/05/2021 15:16:52;Mamão;;Mudas;Própria;Não;;2,000.00;200.00;1,800.00;1,600.00
+;;8336;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;204;;Otaviano de Fátima do Nascimento;05/05/2021 17:47:26;Outros;Capim anapie;Mudas;Doada;Não;;20,000.00;20,000.00;0.00;0.00
+;;8336;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;204;;Otaviano de Fátima do Nascimento;05/05/2021 17:47:26;Cana-de-açúcar;;Mudas;Doada;Não;Não;20,000.00;20,000.00;0.00;0.00
+;;8336;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;204;;Otaviano de Fátima do Nascimento;05/05/2021 17:47:26;Outros;Mexirica;Mudas;Própria;Não;;4,600.00;600.00;4,000.00;5,250.00
+;;8765;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;202;;Francisco Pereira Brito;04/05/2021 21:10:42;Feijão;;Sementes;Comprada;Não;;150.00;50.00;100.00;400.00
+;;8765;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;202;;Francisco Pereira Brito;04/05/2021 21:10:42;Mandioca;;Mudas;Doada;Não;;1,500.00;1,500.00;0.00;0.00
+;;8765;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;202;;Francisco Pereira Brito;04/05/2021 21:10:42;Milho;;Mudas;Comprada;Não;;6,000.00;1,800.00;4,200.00;4,725.00
+;;8626;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;53;053;Paulo Pereira Lopes;29/04/2021 13:24:18;Goiaba;;Mudas;Própria;Não;Não;100.00;0.00;100.00;1,000.00
+;;8626;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;53;053;Paulo Pereira Lopes;29/04/2021 13:24:18;Cupuaçu;;Mudas;Própria;Não;Sim;;;;
+;;8626;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;53;053;Paulo Pereira Lopes;29/04/2021 13:24:18;Acerola;;Mudas;Própria;Não;Não;500.00;0.00;500.00;3,000.00
+;;8626;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;53;053;Paulo Pereira Lopes;29/04/2021 13:24:18;Outros;Cajá;Mudas;Própria;Não;;2,000.00;0.00;2,000.00;3,000.00
+;;8349;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;170;;Suzane Oliveira Andrade;03/05/2021 11:53:12;Mamão;;Mudas;Doada;Não;;600.00;0.00;600.00;1,200.00
+;;8349;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;170;;Suzane Oliveira Andrade;03/05/2021 11:53:12;Limão;;Mudas;Comprada;Não;Não;2,500.00;0.00;2,500.00;6,250.00
+;;8349;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;170;;Suzane Oliveira Andrade;03/05/2021 11:53:12;Outros;Mexirica;Mudas;Comprada;Não;;2,500.00;500.00;2,000.00;8,000.00
+;;8349;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;170;;Suzane Oliveira Andrade;03/05/2021 11:53:12;Laranja;;Mudas;Comprada;Não;Não;2,200.00;200.00;2,000.00;3,000.00
+;;8349;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;170;;Suzane Oliveira Andrade;03/05/2021 11:53:12;Banana;;Mudas;Doada;Não;Não;2,160.00;160.00;2,000.00;4,000.00
+;;8612;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;42;42;Enedina Avelina Ferreira;01/05/2021 11:26:11;Banana;;Mudas;Doada;;Não;2,600.00;0.00;2,600.00;3,380.00
+;;9070;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;505;;Elvis Oliveira da Silva;26/04/2021 14:32:47;Milho;;Sementes;Própria;;;600.00;600.00;0.00;0.00
+;;9116;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;574;;Maria Madalena Pereira de Oliveira;27/04/2021 18:38:01;Mandioca;;Sementes;Comprada;;;10,000.00;10,000.00;0.00;0.00
+;;9012;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;647;647;Antônio Cezar dos Santos Pereira;27/04/2021 18:19:24;Feijão;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;9012;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;647;647;Antônio Cezar dos Santos Pereira;27/04/2021 18:19:24;Outros;Cacau;Ambas;Doada;Não;;0.00;0.00;0.00;0.00
+;;8856;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;620;620;Cleiton da Silva Chaves;28/04/2021 12:48:07;Banana;;Mudas;Doada;Não;Não;5,200.00;5,200.00;0.00;0.00
+;;8869;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;444;;Jocicleia Oliveira Sousa;29/04/2021 17:18:41;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;8902;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;491;;Eva do Couto Pereira Carneiro;28/04/2021 19:30:51;Milho;;Sementes;Comprada;;;500.00;500.00;0.00;0.00
+;;8902;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;491;;Eva do Couto Pereira Carneiro;28/04/2021 19:30:51;Banana;;Mudas;Comprada;;Sim;;;;
+;;9071;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;566;;Antônio Leite de Souza;28/04/2021 13:01:17;Milho;;Sementes;Comprada;;;700.00;700.00;0.00;0.00
+;;9071;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;566;;Antônio Leite de Souza;28/04/2021 13:01:17;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;9071;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;566;;Antônio Leite de Souza;28/04/2021 13:01:17;Banana;;Mudas;Própria;;Sim;;;;
+;;8658;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;412;;Adauto Rodrigues Moreira;29/04/2021 12:33:32;Milho;;Sementes;Comprada;;;450.00;450.00;0.00;0.00
+;;8658;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;412;;Adauto Rodrigues Moreira;29/04/2021 12:33:32;Cana-de-açúcar;;Ambas;Própria;;Sim;;;;
+;;8881;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;327;;Maria Olinda dos Santos de Almeida;28/04/2021 13:27:25;Milho;;Sementes;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;8078;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;345;345;José Marques Filho;26/04/2021 14:23:35;Milho;;Sementes;Própria;Não;;3,050.00;750.00;2,300.00;2,400.00
+;;8029;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;613;;Cleone da Silva Chaves;29/04/2021 14:32:06;Mandioca;;Mudas;Própria;Não;;50,000.00;50,000.00;0.00;0.00
+;;8800;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;547;547;Urlane de Jesus Santos;28/04/2021 17:16:08;Tangerina;;Sementes;Própria;;Não;25,500.00;500.00;25,000.00;35,000.00
+;;8347;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;286;;Samuel Limiro da Silva;03/05/2021 12:02:03;Milho;;Sementes;Comprada;Não;;72,000.00;12,000.00;60,000.00;84,000.00
+;;8407;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;244;;Natanael Limirio da Silva;08/05/2021 16:34:38;Milho;;Sementes;Comprada;Não;;9,000.00;1,500.00;7,500.00;12,750.00
+;;8813;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;254;;Ramon Danilo Sousa Silva;27/04/2021 19:17:00;;;;;;;;;;
+;;8813;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;254;;Ramon Danilo Sousa Silva;27/04/2021 19:17:00;Milho;;Sementes;Comprada;Não;Sim;0.00;0.00;0.00;0.00
+;;8813;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;254;;Ramon Danilo Sousa Silva;27/04/2021 19:17:00;Outros;Palma;Mudas;Comprada;;Sim;0.00;0.00;0.00;0.00
+;;8813;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;254;;Ramon Danilo Sousa Silva;27/04/2021 19:17:00;Feijão;;Sementes;Comprada;Não;Sim;0.00;0.00;0.00;0.00
+;;8813;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;254;;Ramon Danilo Sousa Silva;27/04/2021 19:17:00;Feijão;;Sementes;Comprada;Não;Sim;0.00;0.00;0.00;0.00
+;;8813;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;254;;Ramon Danilo Sousa Silva;27/04/2021 19:17:00;Milho;;Sementes;Comprada;Não;Não;120.00;120.00;0.00;0.00
+;;8594;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;251;;João Martins de Oliveira;07/05/2021 21:01:18;Banana;;Mudas;Própria;Não;Sim;;;;
+;;8594;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;251;;João Martins de Oliveira;07/05/2021 21:01:18;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;8177;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;232;;ALLAN OLIVEIRA BARBOSA;28/04/2021 17:46:37;Outros;Açaí;Mudas;Própria;Não;;400.00;50.00;350.00;840.00
+;;8176;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;231;;ALLAN OLIVEIRA BARBOSA;28/04/2021 17:30:26;Outros;Açaí;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;8875;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;131;;Laurindo Ferreira da Costa;29/04/2021 19:57:40;Almeirão;;Sementes;Própria;;;0.00;0.00;0.00;0.00
+;;8875;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;131;;Laurindo Ferreira da Costa;29/04/2021 19:57:40;Batata-inglesa;;Sementes;Própria;Sim;;0.00;0.00;0.00;0.00
+;;8458;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;155A;;Antônio Miranda de Moura;28/04/2021 14:46:35;Outros;Cacau;Sementes;Doada;Não;;0.00;0.00;0.00;0.00
+;;8458;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;155A;;Antônio Miranda de Moura;28/04/2021 14:46:35;Banana;;Mudas;Comprada;Não;Sim;;;;
+;;8949;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;578;;José Batista Tolentino;03/05/2021 18:31:06;Outros;Mexerica;Mudas;Comprada;Não;;1,000.00;400.00;600.00;750.00
+;;8337;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;205;;Otaviano de Fátima do Nascimento;05/05/2021 17:00:19;Milho;;Sementes;Comprada;Não;;4,800.00;4,800.00;0.00;0.00
+;;8345;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;194;;Wilson Ribeiro Martins;05/05/2021 19:05:08;Feijão;;Sementes;Própria;Não;;0.00;0.00;0.00;0.00
+;;8303;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;197;;Daglython Antônio Santos da Silva;04/05/2021 12:01:18;Milho;;Sementes;Comprada;Não;;400.00;400.00;0.00;0.00
+;;8464;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;191;;Enedir Brito Santos;05/05/2021 20:35:52;Milho;;Sementes;Comprada;Não;;10,000.00;10,000.00;0.00;0.00
+;;8464;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;191;;Enedir Brito Santos;05/05/2021 20:35:52;Mandioca;;Mudas;Própria;Não;;5,000.00;5,000.00;0.00;0.00
+;;8723;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;63;63;Jucelino Barboza Lima;02/05/2021 19:08:15;Outros;Mexirica;Mudas;Própria;;;900.00;0.00;900.00;750.00
+;;8723;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;63;63;Jucelino Barboza Lima;02/05/2021 19:08:15;Limão;;Mudas;Própria;;Não;300.00;0.00;300.00;600.00
+;;8723;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;63;63;Jucelino Barboza Lima;02/05/2021 19:08:15;Manga;;Mudas;Doada;;Não;500.00;0.00;500.00;1,000.00
+;;8723;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;63;63;Jucelino Barboza Lima;02/05/2021 19:08:15;Outros;Cajá;Sementes;Própria;;;200.00;0.00;200.00;1,200.00
+;;8723;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;63;63;Jucelino Barboza Lima;02/05/2021 19:08:15;Outros;Lima;Mudas;Doada;;;250.00;0.00;250.00;1,750.00
+;;8610;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;46;046;Maria Santos de Freitas;29/04/2021 11:39:40;Cana-de-açúcar;;Mudas;Própria;Não;Não;1,000.00;0.00;1,000.00;500.00
+;;8610;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;46;046;Maria Santos de Freitas;29/04/2021 11:39:40;Mandioca;;Mudas;Própria;Não;;5,000.00;100.00;4,900.00;1,000.00
+;;8610;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;46;046;Maria Santos de Freitas;29/04/2021 11:39:40;Feijão;;Sementes;Própria;Não;;60.00;60.00;0.00;0.00
+;;8610;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;46;046;Maria Santos de Freitas;29/04/2021 11:39:40;Banana;;Mudas;Doada;Não;Não;800.00;0.00;800.00;1,000.00
+;;8610;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;46;046;Maria Santos de Freitas;29/04/2021 11:39:40;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;8610;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;46;046;Maria Santos de Freitas;29/04/2021 11:39:40;Outros;Açai;Mudas;Doada;Não;;40.00;40.00;0.00;0.00
+;;8546;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;36;036;Geralda Francalina dos Santos;02/05/2021 12:43:06;Milho;;Sementes;Doada;;;500.00;500.00;0.00;0.00
+;;9035;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;485;;Lourival Souza Ferreira;26/04/2021 15:58:15;Arroz;;Sementes;Comprada;;;300.00;300.00;0.00;0.00
+;;9035;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;485;;Lourival Souza Ferreira;26/04/2021 15:58:15;Milho;;Sementes;Própria;;;500.00;500.00;0.00;0.00
+;;8414;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;14;14;José Ribeiro de Souza;28/04/2021 17:11:18;Mandioca;;Mudas;Própria;Não;;250.00;250.00;0.00;0.00
+;;8206;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;3;003;Ademar de Sousa Alencar;26/04/2021 18:46:27;Maracuja;;Sementes;Comprada;Não;Não;400.00;20.00;380.00;0.00
+;;8206;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;3;003;Ademar de Sousa Alencar;26/04/2021 18:46:27;Outros;Tamarindo;Mudas;Própria;Não;;1,200.00;0.00;1,200.00;2,400.00
+;;8206;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;3;003;Ademar de Sousa Alencar;26/04/2021 18:46:27;Outros;Cajá;Mudas;Própria;Não;;500.00;10.00;490.00;4,900.00
+;;8206;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;3;003;Ademar de Sousa Alencar;26/04/2021 18:46:27;Acerola;;Mudas;Comprada;Não;Não;1,000.00;50.00;950.00;9,500.00
+;;8206;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;3;003;Ademar de Sousa Alencar;26/04/2021 18:46:27;Goiaba;;Sementes;Própria;Não;Não;250.00;50.00;200.00;2,000.00
+;;8792;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;664;;Maria Rosa da Silva Cunha;27/04/2021 20:10:51;Mandioca;;Mudas;Própria;Não;;4,000.00;4,000.00;0.00;0.00
+;;8792;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;664;;Maria Rosa da Silva Cunha;27/04/2021 20:10:51;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;8783;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;663;;Raimundo Nonato Decidido Souza;30/04/2021 12:42:53;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;8783;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;663;;Raimundo Nonato Decidido Souza;30/04/2021 12:42:53;Banana;;Mudas;Doada;Não;Não;1,500.00;500.00;1,000.00;1,000.00
+;;8492;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;276;;Lenice da Silva Cintra;29/04/2021 11:06:33;Sorgo;;Sementes;Comprada;Não;;21,000.00;21,000.00;0.00;0.00
+;;8790;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;670;;Fernando Gomes da Silva;30/04/2021 18:39:34;Mandioca;;Sementes;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;8238;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;645;;José Ambrósio Bastos;30/04/2021 11:32:57;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;8238;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;645;;José Ambrósio Bastos;30/04/2021 11:32:57;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;8790;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;670;;Fernando Gomes da Silva;30/04/2021 18:39:34;Milho;;Sementes;Própria;Não;;1,500.00;1,500.00;0.00;0.00
+;;8790;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;670;;Fernando Gomes da Silva;30/04/2021 18:39:34;Banana;;Sementes;Própria;Não;Não;960.00;960.00;0.00;0.00
+;;8427;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;641;;Altamiro Simplício da Silva;02/05/2021 12:05:28;Coco-da-baía;;Mudas;Doada;Não;Sim;;;;
+;;8427;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;641;;Altamiro Simplício da Silva;02/05/2021 12:05:28;Outros;Cacau;Sementes;Doada;Não;;3,000.00;0.00;3,000.00;30,000.00
+;;7958;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;652;;Alderico da Silva Fidelis;27/04/2021 13:53:13;Mandioca;;Mudas;Doada;Não;;1,000.00;1,000.00;0.00;0.00
+;;7958;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;652;;Alderico da Silva Fidelis;27/04/2021 13:53:13;Banana;;Sementes;Doada;Não;Não;1,200.00;1,200.00;0.00;0.00
+;;7958;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;652;;Alderico da Silva Fidelis;27/04/2021 13:53:13;Outros;Cacau;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;8654;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;442;;Keila dos Santos Cruz Drumond;29/04/2021 17:58:05;Milho;;Sementes;Própria;;;500.00;500.00;0.00;0.00
+;;8654;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;442;;Keila dos Santos Cruz Drumond;29/04/2021 17:58:05;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;9105;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;514;;Lourival Araújo Sousa;28/04/2021 16:19:59;Mamão;;Sementes;Própria;;;200.00;200.00;0.00;0.00
+;;9105;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;514;;Lourival Araújo Sousa;28/04/2021 16:19:59;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;9105;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;514;;Lourival Araújo Sousa;28/04/2021 16:19:59;Banana;;Mudas;Própria;;Não;1,000.00;1,000.00;0.00;0.00
+;;8545;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;34;34;Luiz Fernando da Silva;02/05/2021 11:00:04;Milho;;Sementes;Comprada;Não;;660.00;120.00;540.00;900.00
+;;8719;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;403;;Rosalino Ribeiro Brito;30/04/2021 12:55:46;Mandioca;;Sementes;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;8719;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;403;;Rosalino Ribeiro Brito;30/04/2021 12:55:46;Cana-de-açúcar;;Sementes;Própria;;Não;3,500.00;3,500.00;0.00;0.00
+;;8851;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;410;;Josué Constâncio da Silva;29/04/2021 16:02:31;Mandioca;;Mudas;Própria;;;10,000.00;10,000.00;0.00;0.00
+;;8851;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;410;;Josué Constâncio da Silva;29/04/2021 16:02:31;Milho;;Sementes;Comprada;;;600.00;600.00;0.00;0.00
+;;8851;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;410;;Josué Constâncio da Silva;29/04/2021 16:02:31;Cana-de-açúcar;;Ambas;Própria;;Não;3,000.00;3,000.00;0.00;0.00
+;;8094;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;218;;Alderina Silva dos Reis;29/04/2021 16:38:06;Milho;;Sementes;Própria;Sim;;5,000.00;5,000.00;0.00;0.00
+;;8254;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;450;;Adão do Couto Pereira;28/04/2021 21:00:49;Milho;;Sementes;Comprada;;;1,500.00;1,500.00;0.00;0.00
+;;8254;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;450;;Adão do Couto Pereira;28/04/2021 21:00:49;Cana-de-açúcar;;Sementes;Própria;;Não;10,000.00;10,000.00;0.00;0.00
+;;8094;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;218;;Alderina Silva dos Reis;29/04/2021 16:38:06;Sorgo;;Sementes;Própria;Não;;200.00;200.00;0.00;0.00
+;;8082;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;215;;Manoel Bernardo Drumond Filho;29/04/2021 19:32:55;Feijão;;Sementes;Própria;Sim;;300.00;300.00;0.00;0.00
+;;8082;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;215;;Manoel Bernardo Drumond Filho;29/04/2021 19:32:55;Outros;Taioba;Mudas;Própria;;;10.00;10.00;0.00;0.00
+;;8197;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;626;;Luis Gomes de Lima;29/04/2021 18:27:55;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;8431;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;414;;Aparecida Patrocino Costa;29/04/2021 13:53:59;Outros;Cacau;Sementes;Doada;;;0.00;0.00;0.00;0.00
+;;9013;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;627;;Francisca Pereira da Silva;29/04/2021 18:28:59;Mandioca;;Mudas;Doada;Não;;1,000.00;1,000.00;0.00;0.00
+;;8433;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;415;;Aparecida Patrocino Costa;29/04/2021 13:28:38;Cana-de-açúcar;;Ambas;Própria;;Sim;;;;
+;;8184;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;453;;ALAN MILANÊS DOS SANTOS;02/05/2021 19:52:48;Cana-de-açúcar;;Mudas;Doada;Não;Não;0.00;0.00;0.00;0.00
+;;8768;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;325;;José Reis da Mota;28/04/2021 13:51:51;Banana;;Mudas;Própria;;Não;6,000.00;0.00;6,000.00;6,000.00
+;;8768;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;325;;José Reis da Mota;28/04/2021 13:51:51;Outros;Cacau;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;8768;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;325;;José Reis da Mota;28/04/2021 13:51:51;Milho;;Sementes;Própria;Não;;10,000.00;0.00;10,000.00;20,000.00
+;;8945;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;420;;Maria Madalena Dias Oliveira;02/05/2021 12:55:49;Milho;;Sementes;Comprada;;;600.00;600.00;0.00;0.00
+;;7959;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;374;;Isaelbe Pereira Vasconcelos;28/04/2021 11:24:48;Banana;;Ambas;Própria;;Não;300.00;300.00;0.00;0.00
+;;7954;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;665;;Jonas Povoas da Cunha;27/04/2021 18:43:39;Mandioca;;Mudas;Ambas;Não;;4,000.00;4,000.00;0.00;0.00
+;;9014;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;616;;Agna Furtado Rodrigues França;29/04/2021 13:42:16;Milho;;Sementes;Própria;Não;;500.00;500.00;0.00;0.00
+;;8616;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;430;430;Sandra Maria de Araújo Rodrigues;29/04/2021 18:37:04;Mandioca;;Sementes;Própria;;;0.00;0.00;0.00;0.00
+;;8462;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;246;;JOÃO SOARES DA SILVA JUNIOR;06/05/2021 10:19:24;Outros;Banana e cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;8462;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;246;;JOÃO SOARES DA SILVA JUNIOR;06/05/2021 10:19:24;Outros;Alface e Couve;Sementes;Comprada;Não;;60.00;60.00;0.00;0.00
+;;8939;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;247;;Maria Limirio da Silva Cintra Souza;06/05/2021 11:35:24;Outros;Capim a su;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;8344;PA;Eldorado do Carajás;MB0085000;PA 17 DE ABRIL;165;;Luciana Araújo do Nascimento;04/05/2021 10:52:34;Mandioca;;Mudas;Própria;Não;;4,000.00;4,000.00;0.00;0.00
+;;7157;PA;Marabá;MB0254000;PA CUPÚ;199;;José Afonso Neres;31/03/2021 14:28:18;Mandioca;;Mudas;Própria;Não;;1,500.00;1,500.00;0.00;0.00
+;;7345;PA;Marabá;MB0254000;PA CUPÚ;97;97;Lazara Maria Barbosa Antonio;03/04/2021 20:29:48;Outros;Cacau;Mudas;Ambas;;;7,000.00;0.00;7,000.00;105,000.00
+;;7596;PA;Marabá;MB0254000;PA CUPÚ;30;30;Luzionete Neres Pacheco Amorim;06/04/2021 17:49:38;Outros;Cacau;Mudas;Própria;;;800.00;0.00;800.00;12,000.00
+;;7547;PA;Marabá;MB0254000;PA CUPÚ;38;38;Clodoaldo Arrais Primo;06/04/2021 20:43:18;Outros;Mandioca;Mudas;Própria;;;90,050.00;90,050.00;0.00;0.00
+;;7598;PA;Marabá;MB0254000;PA CUPÚ;43;43;Francisca Barbosa Ferreira;01/04/2021 19:18:35;Outros;Mandioca;Mudas;Própria;Sim;;150,000.00;150,000.00;0.00;0.00
+;;7344;PA;Marabá;MB0254000;PA CUPÚ;100;100;Raquel da Silva Soares;04/04/2021 14:45:23;Outros;Cacau;Mudas;Ambas;;;2,200.00;0.00;2,200.00;33,000.00
+;;7392;PA;Marabá;MB0254000;PA CUPÚ;121;;Moisés Pereira da Silva;05/04/2021 19:43:58;Outros;Cacau;Mudas;Doada;Não;;150.00;0.00;150.00;1,425.00
+;;7404;PA;Marabá;MB0254000;PA CUPÚ;127;127;Cleonice Marcelino de Araújo Cunha;08/04/2021 12:59:50;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;7754;PA;Marabá;MB0254000;PA CUPÚ;133;133;Maria Lídia de Castro;08/04/2021 19:44:06;Milho;;Sementes;Comprada;Não;;10,000.00;2,000.00;8,000.00;12,800.00
+;;7603;PA;Marabá;MB0254000;PA CUPÚ;150;;Francisco da Conceição Ramos;07/04/2021 10:48:33;Milho;;Sementes;Comprada;Não;;750.00;750.00;0.00;0.00
+;;7410;PA;Marabá;MB0254000;PA CUPÚ;153;;Rubens Pereira Machado;06/04/2021 13:13:59;Milho;;Sementes;Comprada;Não;;2,000.00;2,000.00;0.00;0.00
+;;7763;PA;Marabá;MB0254000;PA CUPÚ;171;171;Juciley Francisco da Costa;05/04/2021 17:29:34;Milho;;Sementes;Própria;;;35,000.00;5,000.00;30,000.00;240,000.00
+;;7728;PA;Marabá;MB0254000;PA CUPÚ;179;;Vilmario Rodrigues da Silva;05/04/2021 15:30:49;Milho;;Sementes;Comprada;;;35,000.00;17,500.00;17,500.00;29,750.00
+;;7160;PA;Marabá;MB0254000;PA CUPÚ;197;;Jeová Honório Moreira da Cruz;01/04/2021 11:49:29;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;7158;PA;Marabá;MB0254000;PA CUPÚ;198;;Marcos Além Lopes;31/03/2021 17:23:21;Outros;Cacau;Mudas;Própria;;;800.00;0.00;800.00;6,400.00
+;;7157;PA;Marabá;MB0254000;PA CUPÚ;199;;José Afonso Neres;31/03/2021 14:28:18;Outros;Cacau;Mudas;Doada;Não;;400.00;0.00;400.00;3,200.00
+;;7157;PA;Marabá;MB0254000;PA CUPÚ;199;;José Afonso Neres;31/03/2021 14:28:18;Milho;;Sementes;Própria;Não;;1,500.00;1,500.00;0.00;0.00
+;;7161;PA;Marabá;MB0254000;PA CUPÚ;200;;Luiz Carlos Alves dos Santos;31/03/2021 13:40:12;Outros;Cacau;Sementes;Doada;Não;;200.00;0.00;200.00;2,000.00
+;;7161;PA;Marabá;MB0254000;PA CUPÚ;200;;Luiz Carlos Alves dos Santos;31/03/2021 13:40:12;Mandioca;;Mudas;Própria;Não;;5,000.00;5,000.00;0.00;0.00
+;;7161;PA;Marabá;MB0254000;PA CUPÚ;200;;Luiz Carlos Alves dos Santos;31/03/2021 13:40:12;Milho;;Sementes;Própria;Não;;2,000.00;2,000.00;0.00;0.00
+;;7178;PA;Marabá;MB0254000;PA CUPÚ;190A;;Adão Moreira da Cruz;31/03/2021 20:11:47;Milho;;Sementes;Ambas;Não;;4,800.00;4,800.00;0.00;0.00
+;;7343;PA;Marabá;MB0254000;PA CUPÚ;99;99;Raquel da Silva Soares;04/04/2021 14:41:02;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;7261;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;023;;Adir Costa Rodrigues;04/04/2021 17:23:03;Milho;;Sementes;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;7651;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;022;;Samuel Claro da Silva;04/04/2021 14:36:14;Banana;;Mudas;Comprada;Não;Não;5,000.00;1,000.00;4,000.00;7,000.00
+;;7651;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;022;;Samuel Claro da Silva;04/04/2021 14:36:14;Milho;;Sementes;Comprada;Não;;2,500.00;1,250.00;1,250.00;2,000.00
+;;7530;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;113;;Edivar Pereira da Silva;04/04/2021 12:56:08;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;7651;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;022;;Samuel Claro da Silva;04/04/2021 14:36:14;Mandioca;;Mudas;Doada;Não;;1,500.00;500.00;1,000.00;8,000.00
+;;7644;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;FDEM02_39;;Cariolano de Sousa;04/04/2021 12:22:12;Milho;;Sementes;Doada;Não;;250.00;250.00;0.00;0.00
+;;7426;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;020;;Abelino José Teixeira Filho;04/04/2021 15:21:19;Milho;;Sementes;Comprada;Não;;1,000.00;1,000.00;0.00;0.00
+;;7426;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;020;;Abelino José Teixeira Filho;04/04/2021 15:21:19;Banana;;Mudas;Doada;Não;Não;300.00;300.00;0.00;0.00
+;;7426;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;020;;Abelino José Teixeira Filho;04/04/2021 15:21:19;Cana-de-açúcar;;Mudas;Doada;Não;Não;300.00;300.00;0.00;0.00
+;;7245;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;FDEM02_9;;Claudemi Pereira Moura;02/04/2021 18:38:48;Milho;;Sementes;Doada;Não;;250.00;250.00;0.00;0.00
+;;7428;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;019;;José Nelson dos Reis;04/04/2021 14:12:47;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;7245;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;FDEM02_9;;Claudemi Pereira Moura;02/04/2021 18:38:48;Mandioca;;Mudas;Doada;Não;;1,500.00;1,500.00;0.00;0.00
+;;7245;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;FDEM02_9;;Claudemi Pereira Moura;02/04/2021 18:38:48;Arroz;;Sementes;Doada;Não;;1,200.00;1,200.00;0.00;0.00
+;;7496;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;128A;;Emi José Oliveira de Souza;02/04/2021 14:10:56;Mandioca;;Mudas;Própria;;;1,250.00;1,250.00;0.00;0.00
+;;7749;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;Y-03;;João Paulo Gomes Caixeta;06/04/2021 14:28:28;Milho;;Sementes;Comprada;;;25,000.00;25,000.00;0.00;0.00
+;;7295;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;008;;Marilene de Sousa da Conceição;09/04/2021 16:12:00;Milho;;Sementes;Comprada;;;2,000.00;2,000.00;0.00;0.00
+;;7253;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;016;;Ceni Alves do nascimento da Silva;04/04/2021 14:50:56;Mandioca;;Mudas;Doada;Não;;700.00;700.00;0.00;0.00
+;;7221;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;004;;Arlindo Geraldo do Nascimento;08/04/2021 20:40:46;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;7221;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;004;;Arlindo Geraldo do Nascimento;08/04/2021 20:40:46;Cana-de-açúcar;;Sementes;Doada;;Sim;;;;
+;;7247;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;002;;Jailson Salomão Rodrigues;08/04/2021 18:03:27;Mandioca;;Mudas;Própria;;;2,000.00;2,000.00;0.00;0.00
+;;7707;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;G-02;;Neniomar Epatricio da Silva;08/04/2021 17:25:05;Milho;;Sementes;Comprada;;;5,000.00;5,000.00;0.00;0.00
+;;7667;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;FD1- 032;;Francisco Neves;04/04/2021 18:10:05;Milho;;Sementes;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;7252;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;02N;;Noé da Silva Ferreira;08/04/2021 11:32:37;Banana;;Mudas;Doada;;Sim;;;;
+;;7252;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;02N;;Noé da Silva Ferreira;08/04/2021 11:32:37;Milho;;Sementes;Comprada;Sim;;750.00;750.00;0.00;0.00
+;;7252;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;02N;;Noé da Silva Ferreira;08/04/2021 11:32:37;Abacaxi;;Mudas;Doada;;;0.00;0.00;0.00;0.00
+;;7252;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;02N;;Noé da Silva Ferreira;08/04/2021 11:32:37;Mandioca;;Mudas;Doada;;;250.00;250.00;0.00;0.00
+;;7353;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;178;;José Costa Lira;04/04/2021 19:35:22;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;7202;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;169;;Jose Pereira Gonçalves;06/04/2021 18:47:36;Milho;;Sementes;Própria;Não;;600.00;600.00;0.00;0.00
+;;7197;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;118;;Jose Gomes Gonçalves;05/04/2021 15:08:48;Milho;;Sementes;Própria;Não;;1,500.00;1,500.00;0.00;0.00
+;;7258;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;50;;Wakson Lester Sintra;10/04/2021 12:18:36;Milho;;Sementes;Comprada;Não;;2,500.00;2,500.00;0.00;0.00
+;;7258;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;50;;Wakson Lester Sintra;10/04/2021 12:18:36;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;7477;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;79;;Edileia Rodrigues Chaves;09/04/2021 18:40:55;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;7549;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;119;;Jeferson de Araújo Lima;02/04/2021 19:02:05;Milho;;Sementes;Própria;Não;;1,500.00;1,500.00;0.00;0.00
+;;7478;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;80;;Erasmo Pereira Sobrinho;09/04/2021 18:49:30;Milho;;Sementes;Comprada;Não;;2,000.00;2,000.00;0.00;0.00
+;;7297;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;173;;Omedio Ferreira Soares;09/04/2021 11:35:32;Milho;;Sementes;Própria;Não;;2,500.00;2,500.00;0.00;0.00
+;;7297;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;173;;Omedio Ferreira Soares;09/04/2021 11:35:32;Mandioca;;Mudas;Doada;Não;;1,000.00;1,000.00;0.00;0.00
+;;7297;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;173;;Omedio Ferreira Soares;09/04/2021 11:35:32;Banana;;Mudas;Comprada;Não;Não;2,600.00;2,600.00;0.00;0.00
+;;7297;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;173;;Omedio Ferreira Soares;09/04/2021 11:35:32;Outros;Açaí;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;7259;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;172;;José Sidelino Chaves;11/04/2021 16:01:46;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;7259;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;172;;José Sidelino Chaves;11/04/2021 16:01:46;Mandioca;;Mudas;Própria;Não;;10,000.00;10,000.00;0.00;0.00
+;;7204;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;040;;Francisco Alves de Oliveira;04/04/2021 20:04:38;Mandioca;;Mudas;Doada;Não;;1,000.00;1,000.00;0.00;0.00
+;;7204;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;040;;Francisco Alves de Oliveira;04/04/2021 20:04:38;Milho;;Sementes;Comprada;Não;;5,000.00;5,000.00;0.00;0.00
+;;7349;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;35;;Edson da Silva Coelho;04/04/2021 19:16:12;Mandioca;;Mudas;Doada;Não;;5,000.00;5,000.00;0.00;0.00
+;;7347;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;031;;Edson da Silva Coelho;04/04/2021 18:30:54;Cana-de-açúcar;;Mudas;Doada;Não;Não;40,000.00;40,000.00;0.00;0.00
+;;7549;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;119;;Jeferson de Araújo Lima;02/04/2021 19:02:05;Feijão;;Sementes;Própria;Sim;;100.00;100.00;0.00;0.00
+;;7549;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;119;;Jeferson de Araújo Lima;02/04/2021 19:02:05;Mandioca;;Mudas;Própria;;;5,000.00;5,000.00;0.00;0.00
+;;7359;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;74;;Irisvaldo de Jesus Morais;09/04/2021 15:03:02;Milho;;Sementes;Comprada;Não;;1,250.00;1,250.00;0.00;0.00
+;;7480;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;75;;Edvaldo Pereira Lopes;09/04/2021 14:37:23;Milho;;Sementes;Comprada;Não;;1,500.00;1,500.00;0.00;0.00
+;;7312;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;011;;Lourival Correa Landim;09/04/2021 12:52:30;Mandioca;;Mudas;Comprada;;;7,000.00;7,000.00;0.00;0.00
+;;7300;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;009;;Marilene de Sousa da Conceição;09/04/2021 16:16:13;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;7300;PA;Marabá;MB0159000;PA VOLTA DO TAPIRAPÉ;009;;Marilene de Sousa da Conceição;09/04/2021 16:16:13;Banana;;Mudas;Própria;;Não;2,000.00;2,000.00;0.00;0.00
+;;1139;PA;Pacajá;AT0036000;PA BOM JARDIM;200B;SN lado direito do 200/201;Eliene Pereira de Araújo;25/11/2018 19:40:15;Milho;;Sementes;Comprada;Não;;3,000.00;3,000.00;0.00;0.00
+;;849;PA;Pacajá;AT0036000;PA BOM JARDIM;925;925;Renato Gomes dos Santos;22/11/2018 07:52:34;Outros;Cacau. 2000 plantas. Produção inicial.;Sementes;Comprada;Não;;500.00;0.00;500.00;4,000.00
+;;1159;PA;Pacajá;AT0036000;PA BOM JARDIM;936;936;Jardel do Nascimento Araújo;24/11/2018 20:10:18;Arroz;;Sementes;Própria;Não;;20.00;20.00;0.00;0.00
+;;1485;PA;Pacajá;AT0036000;PA BOM JARDIM;943;943;Nelson Valerio dos Santos;30/11/2018 09:46:11;Outros;Cacau;Sementes;Própria;Sim;;1,500.00;0.00;1,500.00;1,000.00
+;;1056;PA;Pacajá;AT0036000;PA BOM JARDIM;945;;Valdi Oliveira  Souza;20/11/2018 16:55:51;Outros;Cacau;Sementes;Própria;;;300.00;0.00;300.00;3,000.00
+;;730;PA;Pacajá;AT0036000;PA BOM JARDIM;Não informado;Não informado;Maria Gorete Bezerra da Cruz;02/11/2018 19:36:41;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;730;PA;Pacajá;AT0036000;PA BOM JARDIM;Não informado;Não informado;Maria Gorete Bezerra da Cruz;02/11/2018 19:36:41;Arroz;;Sementes;Própria;Não;;900.00;900.00;0.00;0.00
+;;730;PA;Pacajá;AT0036000;PA BOM JARDIM;Não informado;Não informado;Maria Gorete Bezerra da Cruz;02/11/2018 19:36:41;Feijão;;Sementes;Comprada;Não;;100.00;100.00;0.00;0.00
+;;730;PA;Pacajá;AT0036000;PA BOM JARDIM;Não informado;Não informado;Maria Gorete Bezerra da Cruz;02/11/2018 19:36:41;Milho;;Sementes;Comprada;Não;;1,000.00;1,000.00;0.00;0.00
+;;1310;PA;Pacajá;AT0036000;PA BOM JARDIM;992;992;Valdeci Miranda de Oliveira;02/12/2018 18:22:25;Milho;;Sementes;Comprada;Não;;900.00;900.00;0.00;0.00
+;;1552;PA;Pacajá;AT0036000;PA BOM JARDIM;1004;;Joventino Alves da Silva;29/11/2018 09:56:17;Outros;Cacau;Mudas;Própria;Não;;2,400.00;0.00;2,400.00;19,200.00
+;;818;PA;Pacajá;AT0036000;PA BOM JARDIM;243/273/438;243/273/438;Itamar Antunes Alves;16/11/2018 11:08:27;Amendoim;;Sementes;Própria;Não;;60.00;60.00;0.00;0.00
+;;818;PA;Pacajá;AT0036000;PA BOM JARDIM;243/273/438;243/273/438;Itamar Antunes Alves;16/11/2018 11:08:27;Milho;;Sementes;Própria;Não;;600.00;600.00;0.00;0.00
+;;1052;PA;Pacajá;AT0036000;PA BOM JARDIM;618/620;618/620;Sara Pereira de Souza;14/11/2018 14:04:44;Milho;;Mudas;Comprada;Sim;;0.00;0.00;0.00;0.00
+;;822;PA;Pacajá;AT0036000;PA BOM JARDIM;734/735;734/735;Diomar Santos Caetano;15/11/2018 13:51:46;Outros;Abóbora e Quiabo;Ambas;Ambas;Não;;100.00;100.00;0.00;0.00
+;;822;PA;Pacajá;AT0036000;PA BOM JARDIM;734/735;734/735;Diomar Santos Caetano;15/11/2018 13:51:46;Milho;;Sementes;Comprada;Não;;14,000.00;12,500.00;1,500.00;875.00
+;;798;PA;Pacajá;AT0036000;PA BOM JARDIM;340/350;340/350;Terezinha de Jesus de Lima Macena;14/11/2018 15:17:20;Alho;;Sementes;Própria;Sim;;1,000.00;1,000.00;0.00;0.00
+;;798;PA;Pacajá;AT0036000;PA BOM JARDIM;340/350;340/350;Terezinha de Jesus de Lima Macena;14/11/2018 15:17:20;Arroz;;Sementes;Própria;Sim;;600.00;600.00;0.00;0.00
+;;622;PA;Pacajá;AT0036000;PA BOM JARDIM;163;163;Jose de Jesus;13/11/2018 13:19:26;Outros;Cacau;Sementes;Própria;Sim;;1,000.00;0.00;1,000.00;7,000.00
+;;700;PA;Pacajá;AT0036000;PA BOM JARDIM;856;856;Antonio Sebastião Lima;09/11/2018 11:33:00;Outros;Cacau;Mudas;Doada;Sim;;500.00;0.00;500.00;3.00
+;;1185;PA;Pacajá;AT0036000;PA BOM JARDIM;200A;SN ao lado do 268/269;Cleonice Maciel Gusmão;26/11/2018 12:36:26;Milho;;Sementes;Própria;Não;;120.00;120.00;0.00;0.00
+;;1185;PA;Pacajá;AT0036000;PA BOM JARDIM;200A;SN ao lado do 268/269;Cleonice Maciel Gusmão;26/11/2018 12:36:26;Arroz;;Sementes;Própria;Não;;22.00;22.00;0.00;0.00
+;;1156;PA;Pacajá;AT0036000;PA BOM JARDIM;269;;Verilene da Silva Santos;26/11/2018 14:11:25;Arroz;;Sementes;Comprada;Não Sabe;;10.00;10.00;0.00;0.00
+;;1186;PA;Pacajá;AT0036000;PA BOM JARDIM;430;;Belina de Souza Costa;26/11/2018 17:45:09;Milho;;Sementes;Comprada;Não;;2,400.00;2,400.00;0.00;0.00
+;;1174;PA;Pacajá;AT0036000;PA BOM JARDIM;248;248;Nilcineide Barros da Silva;16/11/2018 17:22:41;Milho;;Sementes;Comprada;Não Sabe;;300.00;300.00;0.00;0.00
+;;1174;PA;Pacajá;AT0036000;PA BOM JARDIM;248;248;Nilcineide Barros da Silva;16/11/2018 17:22:41;Arroz;;Sementes;Própria;Não Sabe;;1,150.00;1,150.00;0.00;0.00
+;;1326;PA;Pacajá;AT0036000;PA BOM JARDIM;245/262/270/271;245/262/270/271;Lidiane Nobre Pereira;14/11/2018 09:26:46;Milho;;Sementes;Comprada;Sim;;1,800.00;1,200.00;600.00;500.00
+;;1315;PA;Pacajá;AT0036000;PA BOM JARDIM;906;906;Neuman Alves de Sousa Silveira;04/12/2018 10:32:08;Feijão;;Sementes;Própria;Não;;120.00;120.00;0.00;0.00
+;;1315;PA;Pacajá;AT0036000;PA BOM JARDIM;906;906;Neuman Alves de Sousa Silveira;04/12/2018 10:32:08;Milho;;Sementes;Comprada;Não;;1,800.00;1,800.00;0.00;0.00
+;;1315;PA;Pacajá;AT0036000;PA BOM JARDIM;906;906;Neuman Alves de Sousa Silveira;04/12/2018 10:32:08;Arroz;;Sementes;Própria;Não;;540.00;540.00;0.00;0.00
+;;1141;PA;Pacajá;AT0036000;PA BOM JARDIM;433;433;Maurina Ribeiro da Costa;27/11/2018 12:31:46;Outros;Cacau;Mudas;Própria;Não;;1,100.00;0.00;1,100.00;8,000.00
+;;1141;PA;Pacajá;AT0036000;PA BOM JARDIM;433;433;Maurina Ribeiro da Costa;27/11/2018 12:31:46;Outros;Cacau;Mudas;Comprada;Não Sabe;;50,000.00;50,000.00;0.00;0.00
+;;1141;PA;Pacajá;AT0036000;PA BOM JARDIM;433;433;Maurina Ribeiro da Costa;27/11/2018 12:31:46;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;1328;PA;Pacajá;AT0036000;PA BOM JARDIM;823;823;Ilena Linhares de Souza;20/11/2018 17:27:12;Milho;;Sementes;Comprada;Não;;300.00;300.00;0.00;0.00
+;;1330;PA;Pacajá;AT0036000;PA BOM JARDIM;316 A;SN ao lado do 316;Venilda Oliveira de Araújo;23/11/2018 14:07:23;Arroz;;Sementes;Própria;Não;;10.00;10.00;0.00;0.00
+;;1330;PA;Pacajá;AT0036000;PA BOM JARDIM;316 A;SN ao lado do 316;Venilda Oliveira de Araújo;23/11/2018 14:07:23;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;1201;PA;Pacajá;AT0036000;PA BOM JARDIM;351;351;Lucimar Feitosa da Silva;06/11/2018 11:55:52;Arroz;;Sementes;Própria;Não Sabe;;600.00;600.00;0.00;0.00
+;;1201;PA;Pacajá;AT0036000;PA BOM JARDIM;351;351;Lucimar Feitosa da Silva;06/11/2018 11:55:52;Feijão;;Sementes;Própria;Não Sabe;;60.00;60.00;0.00;0.00
+;;1201;PA;Pacajá;AT0036000;PA BOM JARDIM;351;351;Lucimar Feitosa da Silva;06/11/2018 11:55:52;Milho;;Sementes;Própria;Não;;1,200.00;1,200.00;0.00;0.00
+;;1182;PA;Pacajá;AT0036000;PA BOM JARDIM;S/N;S/N;Sueli Figueiredo Pires;03/11/2018 15:20:00;Feijão;;Sementes;Própria;Não;;30.00;30.00;0.00;0.00
+;;1182;PA;Pacajá;AT0036000;PA BOM JARDIM;S/N;S/N;Sueli Figueiredo Pires;03/11/2018 15:20:00;Milho;;Sementes;Comprada;Não;;3,600.00;3,600.00;0.00;0.00
+;;1182;PA;Pacajá;AT0036000;PA BOM JARDIM;S/N;S/N;Sueli Figueiredo Pires;03/11/2018 15:20:00;Mandioca;;Mudas;Doada;Não Sabe;;10,000.00;10,000.00;0.00;0.00
+;;1182;PA;Pacajá;AT0036000;PA BOM JARDIM;S/N;S/N;Sueli Figueiredo Pires;03/11/2018 15:20:00;Arroz;;Sementes;Própria;Não;;20.00;20.00;0.00;0.00
+;;1470;PA;Pacajá;AT0036000;PA BOM JARDIM;595 A;595 A;Genivaldo Soares dos Santos;05/12/2018 18:22:42;Abacaxi;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;1470;PA;Pacajá;AT0036000;PA BOM JARDIM;595 A;595 A;Genivaldo Soares dos Santos;05/12/2018 18:22:42;Mandioca;;Mudas;Própria;Sim;;25,000.00;25,000.00;0.00;0.00
+;;1470;PA;Pacajá;AT0036000;PA BOM JARDIM;595 A;595 A;Genivaldo Soares dos Santos;05/12/2018 18:22:42;Outros;Cacau;Sementes;Própria;Sim;;0.00;0.00;0.00;0.00
+;;1472;PA;Pacajá;AT0036000;PA BOM JARDIM;866;866;Mateus Pereira Pardim;27/11/2018 10:07:00;Outros;Cacau;Mudas;Doada;Sim;;4,000.00;100.00;3,900.00;28,000.00
+;;1399;PA;Pacajá;AT0036000;PA BOM JARDIM;306 A;306 A;Maria Aparecida Soares de Oliveira;27/11/2018 13:45:22;Outros;Cacau;Sementes;Própria;Sim;;20,000.00;0.00;20,000.00;160,000.00
+;;1460;PA;Pacajá;AT0036000;PA BOM JARDIM;609 C;609 C;Sara Jania Pinto Ramos;29/11/2018 13:11:33;Outros;Cacau;Sementes;Própria;Sim;;2,000.00;0.00;2,000.00;14,000.00
+;;1462;PA;Pacajá;AT0036000;PA BOM JARDIM;609 B;609 B;Joel Gomes de Lima;29/11/2018 14:07:06;Outros;Cacau;Sementes;Própria;Sim;;1,000.00;0.00;1,000.00;7,000.00
+;;1617;PA;Pacajá;AT0036000;PA BOM JARDIM;954;;Raimundo Uchoa da Costa;06/12/2018 11:01:49;Outros;Cacau;Sementes;Própria;Não;;600.00;0.00;600.00;3,600.00
+;;1886;PA;Pacajá;AT0036000;PA BOM JARDIM;54 A;54 A;Elizabeth Valverde da Silva;07/12/2018 14:29:20;Mandioca;;Mudas;Própria;Não Sabe;;100.00;100.00;0.00;0.00
+;;1886;PA;Pacajá;AT0036000;PA BOM JARDIM;54 A;54 A;Elizabeth Valverde da Silva;07/12/2018 14:29:20;Milho;;Sementes;Comprada;Não;;50.00;50.00;0.00;0.00
+;;1886;PA;Pacajá;AT0036000;PA BOM JARDIM;54 A;54 A;Elizabeth Valverde da Silva;07/12/2018 14:29:20;Feijão;;Sementes;Comprada;Não;;40.00;40.00;0.00;0.00
+;;1848;PA;Pacajá;AT0036000;PA BOM JARDIM;683/684;683/684;Anita Araújo Bezerra;08/12/2018 12:36:04;Outros;Cacau;Mudas;Comprada;Não;;6,000.00;0.00;6,000.00;48,000.00
+;;1848;PA;Pacajá;AT0036000;PA BOM JARDIM;683/684;683/684;Anita Araújo Bezerra;08/12/2018 12:36:04;Mandioca;;Mudas;Própria;Não;;40,000.00;40,000.00;0.00;0.00
+;;1848;PA;Pacajá;AT0036000;PA BOM JARDIM;683/684;683/684;Anita Araújo Bezerra;08/12/2018 12:36:04;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;1848;PA;Pacajá;AT0036000;PA BOM JARDIM;683/684;683/684;Anita Araújo Bezerra;08/12/2018 12:36:04;Feijão;;Sementes;Própria;Não;;120.00;120.00;0.00;0.00
+;;1861;PA;Pacajá;AT0036000;PA BOM JARDIM;27 A;27 A;Maria Divina Chaves dos Santos;07/12/2018 18:38:48;Mandioca;;Mudas;Própria;Não Sabe;;5,000.00;5,000.00;0.00;0.00
+;;1861;PA;Pacajá;AT0036000;PA BOM JARDIM;27 A;27 A;Maria Divina Chaves dos Santos;07/12/2018 18:38:48;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;1861;PA;Pacajá;AT0036000;PA BOM JARDIM;27 A;27 A;Maria Divina Chaves dos Santos;07/12/2018 18:38:48;Feijão;;Sementes;Comprada;Não;;120.00;120.00;0.00;0.00
+;;1904;PA;Pacajá;AT0036000;PA BOM JARDIM;334B;;Raimunda Coelho da Silva;06/11/2018 13:33:29;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;1904;PA;Pacajá;AT0036000;PA BOM JARDIM;334B;;Raimunda Coelho da Silva;06/11/2018 13:33:29;Feijão;;Sementes;Própria;Não;;120.00;120.00;0.00;0.00
+;;1904;PA;Pacajá;AT0036000;PA BOM JARDIM;334B;;Raimunda Coelho da Silva;06/11/2018 13:33:29;Arroz;;Sementes;Própria;Sim;;300.00;300.00;0.00;0.00
+;;1914;PA;Pacajá;AT0036000;PA BOM JARDIM;798;798;Geraldo Diniz Pinto;06/11/2018 17:15:34;Abóbora Moranga;;Sementes;Própria;Não;;200.00;200.00;0.00;0.00
+;;1914;PA;Pacajá;AT0036000;PA BOM JARDIM;798;798;Geraldo Diniz Pinto;06/11/2018 17:15:34;Quiabo;;Sementes;Comprada;Sim;;50.00;50.00;0.00;0.00
+;;1914;PA;Pacajá;AT0036000;PA BOM JARDIM;798;798;Geraldo Diniz Pinto;06/11/2018 17:15:34;Feijão;;Sementes;Própria;Não;;180.00;180.00;0.00;0.00
+;;1914;PA;Pacajá;AT0036000;PA BOM JARDIM;798;798;Geraldo Diniz Pinto;06/11/2018 17:15:34;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;1914;PA;Pacajá;AT0036000;PA BOM JARDIM;798;798;Geraldo Diniz Pinto;06/11/2018 17:15:34;Arroz;;Sementes;Própria;Não Sabe;;1,800.00;1,800.00;0.00;0.00
+;;710;PA;Pacajá;AT0036000;PA BOM JARDIM;Não possui numeração;Não possui numeração;Benedito Gomes da Silva;13/11/2018 16:58:49;Outros;Cacau;Sementes;Própria;Não;;36.00;36.00;0.00;0.00
+;;710;PA;Pacajá;AT0036000;PA BOM JARDIM;Não possui numeração;Não possui numeração;Benedito Gomes da Silva;13/11/2018 16:58:49;Mandioca;;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;710;PA;Pacajá;AT0036000;PA BOM JARDIM;Não possui numeração;Não possui numeração;Benedito Gomes da Silva;13/11/2018 16:58:49;Cana-de-açúcar;;Mudas;Própria;Não;Sim;;;;
+;;1302;PA;Pacajá;AT0036000;PA BOM JARDIM;925;925;Diorgenes Silva dos Santos;21/11/2018 11:17:59;Mandioca;;Mudas;Própria;Não;;5,000.00;5,000.00;0.00;0.00
+;;1186;PA;Pacajá;AT0036000;PA BOM JARDIM;430;;Belina de Souza Costa;26/11/2018 17:45:09;Arroz;;Sementes;Própria;Não;;600.00;600.00;0.00;0.00
+;;1302;PA;Pacajá;AT0036000;PA BOM JARDIM;925;925;Diorgenes Silva dos Santos;21/11/2018 11:17:59;Milho;;Sementes;Comprada;Não;;3,000.00;3,000.00;0.00;0.00
+;;1889;PA;Pacajá;AT0036000;PA BOM JARDIM;152;;Valdeir Carolino da Silva;06/11/2018 16:52:48;Mandioca;;Mudas;Própria;Não Sabe;;0.00;0.00;0.00;0.00
+;;1020;PA;Pacajá;AT0036000;PA BOM JARDIM;156;;Joelia da Silva Amaral;06/11/2018 16:58:36;Arroz;;Sementes;Própria;Não;;1,100.00;1,100.00;0.00;0.00
+;;1194;PA;Pacajá;AT0036000;PA BOM JARDIM;199;199;Zezito Galdino de Oliveira;25/11/2018 20:32:57;Milho;;Sementes;Comprada;Não Sabe;;10.00;10.00;0.00;0.00
+;;1194;PA;Pacajá;AT0036000;PA BOM JARDIM;199;199;Zezito Galdino de Oliveira;25/11/2018 20:32:57;Arroz;;Sementes;Própria;Não;;33.00;33.00;0.00;0.00
+;;1184;PA;Pacajá;AT0036000;PA BOM JARDIM;205;205;Ivanilda Pereira da Silva;25/11/2018 10:18:44;Milho;;Sementes;Comprada;Não;;900.00;900.00;0.00;0.00
+;;1184;PA;Pacajá;AT0036000;PA BOM JARDIM;205;205;Ivanilda Pereira da Silva;25/11/2018 10:18:44;Mandioca;;Mudas;Própria;Não;;5,000.00;5,000.00;0.00;0.00
+;;816;PA;Pacajá;AT0036000;PA BOM JARDIM;207;207;Rony de Oliveira Pinto;15/11/2018 08:53:05;Milho;;Sementes;Comprada;Não;;400.00;400.00;0.00;0.00
+;;1441;PA;Pacajá;AT0036000;PA BOM JARDIM;228;228;José Braz de Oliveira;28/11/2018 17:35:06;Outros;Cacau;Sementes;Própria;Sim;;2,000.00;0.00;2,000.00;14,000.00
+;;1457;PA;Pacajá;AT0036000;PA BOM JARDIM;266;266;José Oliveira Gomes;29/11/2018 10:35:35;Outros;Cacau;Sementes;Própria;Sim;;3,000.00;0.00;3,000.00;21,000.00
+;;628;PA;Pacajá;AT0036000;PA BOM JARDIM;280;280;Edmilson da Silva Gomes;02/11/2018 18:08:34;Mandioca;;Mudas;Doada;Não;;10.00;10.00;0.00;0.00
+;;628;PA;Pacajá;AT0036000;PA BOM JARDIM;280;280;Edmilson da Silva Gomes;02/11/2018 18:08:34;Banana;;Mudas;Doada;Não;Sim;;;;
+;;628;PA;Pacajá;AT0036000;PA BOM JARDIM;280;280;Edmilson da Silva Gomes;02/11/2018 18:08:34;Cana-de-açúcar;;Mudas;Doada;Não;Não;12.00;12.00;0.00;0.00
+;;1311;PA;Pacajá;AT0036000;PA BOM JARDIM;289;289;Ana Eliete Pereira Melo;03/12/2018 08:47:41;Milho;;Sementes;Comprada;Não;;30.00;30.00;0.00;0.00
+;;1299;PA;Pacajá;AT0036000;PA BOM JARDIM;300;300;Gleiciane dos Santos Ferreira;03/12/2018 17:17:11;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;1303;PA;Pacajá;AT0036000;PA BOM JARDIM;315;315;Maria de Lourdes Rodrigues Pereira;23/11/2018 15:12:06;Milho;;Sementes;Comprada;Não;;50.00;50.00;0.00;0.00
+;;1327;PA;Pacajá;AT0036000;PA BOM JARDIM;341;341;Maria Fernandes dos Santos;14/11/2018 12:37:04;Milho;;Sementes;Comprada;Sim;;900.00;900.00;0.00;0.00
+;;1327;PA;Pacajá;AT0036000;PA BOM JARDIM;341;341;Maria Fernandes dos Santos;14/11/2018 12:37:04;Arroz;;Sementes;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;1189;PA;Pacajá;AT0036000;PA BOM JARDIM;346;346;Estelita Lima Ramos Dutra;22/11/2018 16:03:44;Outros;Cacau;Sementes;Própria;Sim;;5,000.00;0.00;5,000.00;35,000.00
+;;1305;PA;Pacajá;AT0036000;PA BOM JARDIM;362;362;Edivaldo Sousa Lira;24/11/2018 11:33:20;Milho;;Sementes;Comprada;Não;;1,800.00;1,800.00;0.00;0.00
+;;1305;PA;Pacajá;AT0036000;PA BOM JARDIM;362;362;Edivaldo Sousa Lira;24/11/2018 11:33:20;Arroz;;Sementes;Própria;Não;;2,400.00;2,400.00;0.00;0.00
+;;1396;PA;Pacajá;AT0036000;PA BOM JARDIM;407;407;Antonio Santana Claro de Souza;03/12/2018 12:04:38;Mandioca;;Mudas;Própria;Sim;;800.00;800.00;0.00;0.00
+;;850;PA;Pacajá;AT0036000;PA BOM JARDIM;493;493;Edivaldo Pereira Marinho;22/11/2018 09:18:40;Mandioca;;Mudas;Própria;Não;;2,000.00;2,000.00;0.00;0.00
+;;850;PA;Pacajá;AT0036000;PA BOM JARDIM;493;493;Edivaldo Pereira Marinho;22/11/2018 09:18:40;Outros;Cacau;Sementes;Própria;Não;;500.00;200.00;300.00;2,100.00
+;;850;PA;Pacajá;AT0036000;PA BOM JARDIM;493;493;Edivaldo Pereira Marinho;22/11/2018 09:18:40;Banana;;Mudas;Própria;Não;Não;400.00;400.00;0.00;0.00
+;;850;PA;Pacajá;AT0036000;PA BOM JARDIM;493;493;Edivaldo Pereira Marinho;22/11/2018 09:18:40;Feijão;;Mudas;Comprada;Não;;180.00;180.00;0.00;0.00
+;;850;PA;Pacajá;AT0036000;PA BOM JARDIM;493;493;Edivaldo Pereira Marinho;22/11/2018 09:18:40;Milho;;Sementes;Comprada;Não;;240.00;240.00;0.00;0.00
+;;851;PA;Pacajá;AT0036000;PA BOM JARDIM;494;494;Karina Ribeiro de Sá;22/11/2018 10:41:19;Mandioca;;Mudas;Própria;Não;;1,800.00;1,800.00;0.00;0.00
+;;851;PA;Pacajá;AT0036000;PA BOM JARDIM;494;494;Karina Ribeiro de Sá;22/11/2018 10:41:19;Milho;;Sementes;Comprada;Não;;1,800.00;1,200.00;600.00;300.00
+;;851;PA;Pacajá;AT0036000;PA BOM JARDIM;494;494;Karina Ribeiro de Sá;22/11/2018 10:41:19;Feijão;;Sementes;Própria;Não;;120.00;120.00;0.00;0.00
+;;844;PA;Pacajá;AT0036000;PA BOM JARDIM;496;496;Waldinei Soares Santos;21/11/2018 09:12:13;Outros;Cacau;Mudas;Comprada;Não;;10,000.00;0.00;10,000.00;80,000.00
+;;856;PA;Pacajá;AT0036000;PA BOM JARDIM;499/500;499/500;Alaíde Neres dos Santos;09/11/2018 17:30:03;Milho;;Sementes;Comprada;Não;;360.00;360.00;0.00;0.00
+;;1054;PA;Pacajá;AT0036000;PA BOM JARDIM;506;506;José do Carmo Portela de Souza;21/11/2018 11:42:33;Milho;;Sementes;Própria;Não;;360.00;360.00;0.00;0.00
+;;1054;PA;Pacajá;AT0036000;PA BOM JARDIM;506;506;José do Carmo Portela de Souza;21/11/2018 11:42:33;Outros;Cacau;Mudas;Própria;Não Sabe;;600.00;0.00;600.00;3,600.00
+;;1473;PA;Pacajá;AT0036000;PA BOM JARDIM;539;539;Sebastião Fernandes da Cruz;27/11/2018 19:24:13;Outros;Cacau;Mudas;Doada;Não;;2,000.00;100.00;1,900.00;14,000.00
+;;1538;PA;Pacajá;AT0036000;PA BOM JARDIM;568;;Roberto Brito de Souza;21/11/2018 12:33:19;Arroz;;Sementes;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;1192;PA;Pacajá;AT0036000;PA BOM JARDIM;592;592;Geraldo Dos Passos Fernandes Da Cruz;26/11/2018 21:34:20;Outros;Cacau;Sementes;Própria;Sim;;2,000.00;0.00;2,000.00;20,000.00
+;;1439;PA;Pacajá;AT0036000;PA BOM JARDIM;626;626;Valdeci de Jesus Soares de Oliveira;28/11/2018 16:54:13;Outros;Cacau;Sementes;Própria;Sim;;1,500.00;0.00;1,500.00;10,500.00
+;;1269;PA;Pacajá;AT0036000;PA BOM JARDIM;661;661;Mariquele Brito de Almeida Bezerra;03/12/2018 20:52:19;Milho;;Sementes;Comprada;Não;;1,200.00;1,200.00;0.00;0.00
+;;1859;PA;Pacajá;AT0036000;PA BOM JARDIM;689;689;Maria Rita Silva;25/11/2018 13:28:17;Milho;;Sementes;Comprada;Não;;10.00;10.00;0.00;0.00
+;;1859;PA;Pacajá;AT0036000;PA BOM JARDIM;689;689;Maria Rita Silva;25/11/2018 13:28:17;Arroz;;Sementes;Própria;Não;;600.00;600.00;0.00;0.00
+;;1858;PA;Pacajá;AT0036000;PA BOM JARDIM;434;434;Valéria Souza Lopes;26/11/2018 16:42:42;Mandioca;;Mudas;Própria;Não;;5,000.00;5,000.00;0.00;0.00
+;;1858;PA;Pacajá;AT0036000;PA BOM JARDIM;434;434;Valéria Souza Lopes;26/11/2018 16:42:42;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;1332;PA;Pacajá;AT0036000;PA BOM JARDIM;783;783;Delvani dos Santos Maciel;28/11/2018 07:41:20;Feijão;;Sementes;Própria;Não;;120.00;120.00;0.00;0.00
+;;1332;PA;Pacajá;AT0036000;PA BOM JARDIM;783;783;Delvani dos Santos Maciel;28/11/2018 07:41:20;Milho;;Sementes;Comprada;Não;;900.00;900.00;0.00;0.00
+;;1332;PA;Pacajá;AT0036000;PA BOM JARDIM;783;783;Delvani dos Santos Maciel;28/11/2018 07:41:20;Arroz;;Sementes;Própria;Não Sabe;;4,200.00;4,200.00;0.00;0.00
+;;1424;PA;Pacajá;AT0036000;PA BOM JARDIM;884;884;Maria Aparecida Dantas Mangabeira;27/11/2018 17:02:41;Outros;Cacau;Sementes;Própria;Sim;;200.00;0.00;200.00;2,000.00
+;;1893;PA;Pacajá;AT0036000;PA BOM JARDIM;894;;Ivanilson Carolino Santos;13/11/2018 18:29:24;Milho;;Sementes;Doada;Não Sabe;;1,200.00;1,200.00;0.00;0.00
+;;1893;PA;Pacajá;AT0036000;PA BOM JARDIM;894;;Ivanilson Carolino Santos;13/11/2018 18:29:24;Arroz;;Sementes;Comprada;Não Sabe;;2,280.00;2,280.00;0.00;0.00
+;;1388;PA;Pacajá;AT0036000;PA BOM JARDIM;910;910;Luiz Rodrigues Freitas;30/11/2018 14:09:52;Outros;Cacau;Sementes;Própria;Sim;;500.00;0.00;500.00;5,000.00
+;;4259;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;302;;Lourenço Pereira Sena;03/10/2020 18:30:25;Mandioca;;Mudas;Própria;;;500.00;500.00;0.00;0.00
+;;4118;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;295;;Raimundo Freire da Silva;02/10/2020 13:26:37;Banana;;Mudas;Própria;;Não;30,000.00;30,000.00;0.00;0.00
+;;4260;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;297;;Sabino Gonçalves da Silva;03/10/2020 20:07:33;Mandioca;;Mudas;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;4260;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;297;;Sabino Gonçalves da Silva;03/10/2020 20:07:33;Milho;;Sementes;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;4195;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;205;;Almir Fernandes da Silva;02/10/2020 14:26:37;Banana;;Mudas;Própria;;Não;900.00;900.00;0.00;0.00
+;;4195;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;205;;Almir Fernandes da Silva;02/10/2020 14:26:37;Cana-de-açúcar;;Mudas;Própria;;Não;0.00;0.00;0.00;0.00
+;;4260;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;297;;Sabino Gonçalves da Silva;03/10/2020 20:07:33;Abacaxi;;Mudas;Própria;;;50.00;50.00;0.00;0.00
+;;4117;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;281;;Raimundo Pereira de Sousa;02/10/2020 11:59:02;Cana-de-açúcar;;Mudas;Própria;;Não;1,200.00;1,200.00;0.00;0.00
+;;4215;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;269;;Lindevane Silva Pereira;03/10/2020 14:14:27;Banana;;Mudas;Ambas;;Não;0.00;0.00;0.00;0.00
+;;4259;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;302;;Lourenço Pereira Sena;03/10/2020 18:30:25;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;4208;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;301;;Maria das Graças Barros Silva;03/10/2020 13:13:07;Mandioca;;Mudas;Própria;;;1,500.00;1,500.00;0.00;0.00
+;;4258;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;308A;;Luciano Gomes da Silva;04/10/2020 15:40:52;Milho;;Sementes;Comprada;;;3,200.00;3,200.00;0.00;0.00
+;;4258;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;308A;;Luciano Gomes da Silva;04/10/2020 15:40:52;Feijão;;Sementes;Própria;;;60.00;60.00;0.00;0.00
+;;4258;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;308A;;Luciano Gomes da Silva;04/10/2020 15:40:52;Arroz;;Sementes;Própria;;;1,080.00;1,080.00;0.00;0.00
+;;4237;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;307;;Osmarina Araujo Leda;01/10/2020 11:44:55;Milho;;Sementes;Comprada;;;5,000.00;5,000.00;0.00;0.00
+;;4237;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;307;;Osmarina Araujo Leda;01/10/2020 11:44:55;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;4180;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;331;331;Cícero Silva;05/10/2020 11:03:26;Mandioca;;Mudas;Própria;;;12,000.00;12,000.00;0.00;0.00
+;;4076;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;321;;Otávio Alves Ferreira;30/09/2020 19:54:07;Cana-de-açúcar;;Mudas;Própria;;Não;3,000.00;3,000.00;0.00;0.00
+;;4261;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;292;;Marcos Antônio Amancio da Silva;04/10/2020 19:17:41;Milho;;Sementes;Comprada;;;1,500.00;1,500.00;0.00;0.00
+;;4454;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;71;;Layanni Ferreira Sodré Santos;11/10/2020 14:17:45;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;4082;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;312;;Edna Maria Dias de Alecrim Paiva;02/10/2020 23:12:12;Banana;;Mudas;Doada;;Não;300.00;300.00;0.00;0.00
+;;4458;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;77;;Maura Rosa Fraga Ramos;12/10/2020 10:46:18;Mandioca;;Mudas;Própria;;;150.00;150.00;0.00;0.00
+;;4458;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;77;;Maura Rosa Fraga Ramos;12/10/2020 10:46:18;Milho;;Sementes;Comprada;;;500.00;500.00;0.00;0.00
+;;4141;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;324;;Keliane Leite de Carvalho;01/10/2020 13:05:48;Milho;;Sementes;Comprada;;;780.00;780.00;0.00;0.00
+;;4141;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;324;;Keliane Leite de Carvalho;01/10/2020 13:05:48;Melancia;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;4454;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;71;;Layanni Ferreira Sodré Santos;11/10/2020 14:17:45;Milho;;Sementes;Comprada;;;2,000.00;2,000.00;0.00;0.00
+;;4454;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;71;;Layanni Ferreira Sodré Santos;11/10/2020 14:17:45;Abóbora Moranga;;Sementes;Própria;;;350.00;350.00;0.00;0.00
+;;4235;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;317;;Lusiene Nunes Soares;01/10/2020 11:02:08;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;4076;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;321;;Otávio Alves Ferreira;30/09/2020 19:54:07;Mandioca;;Mudas;Própria;;;1,500.00;1,500.00;0.00;0.00
+;;4515;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;94;;Vicente Oliveira de Morais;12/10/2020 19:04:33;Banana;;Mudas;Própria;;Sim;;;;
+;;4077;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;332;;Veralucia Luzia da Conceição;30/09/2020 17:17:20;Milho;;Sementes;Comprada;;;800.00;800.00;0.00;0.00
+;;4354;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;114;;Hilda Leopodina da Silva Alves;12/10/2020 16:39:08;Mandioca;;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;4265;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;Não tem malha, nunca foi medido pelo PNRA, mas os beneficiários tem RB.;;Maria Rosalha Xavier;02/10/2020 18:01:08;Mandioca;;Mudas;Própria;;;500.00;500.00;0.00;0.00
+;;4265;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;Não tem malha, nunca foi medido pelo PNRA, mas os beneficiários tem RB.;;Maria Rosalha Xavier;02/10/2020 18:01:08;Milho;;Sementes;Comprada;;;1,200.00;1,200.00;0.00;0.00
+;;4255;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;"Não tem porque foi medido pelo ""INCRA"".";;Ilda Prates do Nascimento Gomes;06/10/2020 14:03:36;Banana;;Mudas;Própria;;Não;1,000.00;100.00;900.00;1,500.00
+;;4354;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;114;;Hilda Leopodina da Silva Alves;12/10/2020 16:39:08;Banana;;Mudas;Própria;;Sim;;;;
+;;4464;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;70;;Raimunda Ferreira dos Santos;12/10/2020 18:23:01;Banana;;Mudas;Própria;;Não;1,000.00;1,000.00;0.00;0.00
+;;4266;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;Não tem malha, não foi feita a medição pelo INCRA.;;Itamar de Souza Soares;02/10/2020 19:45:24;Milho;;Sementes;Comprada;;;1,500.00;1,500.00;0.00;0.00
+;;4267;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;Lote fora de malha, não tem malha feita pelo INCRA.;;Luiz Delfino de Oliveira;03/10/2020 11:07:20;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;4267;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;Lote fora de malha, não tem malha feita pelo INCRA.;;Luiz Delfino de Oliveira;03/10/2020 11:07:20;Mandioca;;Mudas;Própria;;;500.00;500.00;0.00;0.00
+;;4255;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;"Não tem porque foi medido pelo ""INCRA"".";;Ilda Prates do Nascimento Gomes;06/10/2020 14:03:36;Mandioca;;Mudas;Própria;;;600.00;600.00;0.00;0.00
+;;4255;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;"Não tem porque foi medido pelo ""INCRA"".";;Ilda Prates do Nascimento Gomes;06/10/2020 14:03:36;Feijão;;Sementes;Própria;;;200.00;200.00;0.00;0.00
+;;4255;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;"Não tem porque foi medido pelo ""INCRA"".";;Ilda Prates do Nascimento Gomes;06/10/2020 14:03:36;Milho;;Sementes;Comprada;;;1,250.00;1,250.00;0.00;0.00
+;;4464;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;70;;Raimunda Ferreira dos Santos;12/10/2020 18:23:01;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;4077;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;332;;Veralucia Luzia da Conceição;30/09/2020 17:17:20;Mandioca;;Mudas;Própria;;;3,000.00;500.00;2,500.00;0.00
+;;4077;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;332;;Veralucia Luzia da Conceição;30/09/2020 17:17:20;Amendoim;;Sementes;Doada;;;200.00;150.00;50.00;150.00
+;;4122;PA;Santa Maria das Barreiras;MB0168000;PA CONCEIÇÃO;340;;Elias Borges Leal;01/10/2020 17:35:54;Banana;;Mudas;Própria;;Não;4,500.00;100.00;4,400.00;8,800.00
+;;7130;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;179;179;Adriania Lopes Cardoso;20/02/2021 11:18:09;Outros;Cacau;Mudas;Própria;;;2,000.00;0.00;2,000.00;20,000.00
+;;6373;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;846;846;Zidelvan Aparecido Faria;10/12/2020 15:57:18;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;5871;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;782;782;Jose Antônio Calado;19/11/2020 19:09:52;Mandioca;;;;;;2,500.00;2,500.00;0.00;0.00
+;;5957;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;637;637;Paulo Sergio Francisco;08/12/2020 17:32:03;Outros;Cacau;Sementes;Própria;Sim;;1,600.00;0.00;1,600.00;17,600.00
+;;7117;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;681C;;Cesar Ribeiro Campelo;25/02/2021 12:19:38;Outros;Cacau;Sementes;Própria;Não;;14,000.00;0.00;14,000.00;133,000.00
+;;5178;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;557A;;Domingos Eufrasio da silva;03/12/2020 10:11:47;Outros;Cacau;Mudas;Própria;;;800.00;0.00;800.00;10,000.00
+;;5841;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;561;;José de Assis Alves Costa;26/11/2020 16:12:05;Outros;Cacau;Mudas;Própria;;;1,400.00;0.00;1,400.00;14,000.00
+;;6734;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;900;;Francisco das Chagas Rabelo;17/02/2021 11:47:22;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;6734;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;900;;Francisco das Chagas Rabelo;17/02/2021 11:47:22;Banana;;Mudas;Própria;;Não;600.00;600.00;0.00;0.00
+;;7043;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;895A;;Nara Suzy de Jesus Alípio ;26/02/2021 17:10:21;Outros;Cacau;Ambas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6531;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;894;;Vilmar Dias da Silva;18/02/2021 18:20:25;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6426;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;875;;Josiwolffy Vieira Santos;19/11/2020 11:37:18;Alface;;Sementes;Comprada;Não;;72.00;0.00;72.00;2,399.00
+;;6426;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;875;;Josiwolffy Vieira Santos;19/11/2020 11:37:18;Outros;Maxixe;Sementes;Própria;Não;;240.00;0.00;240.00;2,400.00
+;;6426;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;875;;Josiwolffy Vieira Santos;19/11/2020 11:37:18;Quiabo;;Sementes;Própria;Não;;96.00;0.00;76.00;2,400.00
+;;6426;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;875;;Josiwolffy Vieira Santos;19/11/2020 11:37:18;Couve;;Sementes;Comprada;Não;;72.00;0.00;72.00;2,376.00
+;;6426;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;875;;Josiwolffy Vieira Santos;19/11/2020 11:37:18;Outros;Jambu;Sementes;Comprada;Sim;;72.00;0.00;72.00;2,376.00
+;;6426;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;875;;Josiwolffy Vieira Santos;19/11/2020 11:37:18;Mandioca;;Mudas;Própria;;;20,000.00;20,000.00;0.00;0.00
+;;6418;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;845;845;Zidair Modesto da Penha;10/12/2020 17:16:49;Outros;Cacau;Mudas;Própria;;;4,000.00;0.00;4,000.00;44,000.00
+;;6321;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;843;843;Telma da Luz;10/12/2020 12:35:44;Outros;Cacau;Sementes;Própria;Sim;;2,000.00;0.00;2,000.00;20,000.00
+;;6881;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;176A;;Laudilina Oliveira dos Santos;08/03/2021 12:22:34;Outros;Cacau;Mudas;Doada;Não;;10,000.00;0.00;10,000.00;14,000.00
+;;6655;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;182;182;Maria Oneide Alves Cunha;01/03/2021 11:19:12;Outros;Cacau;Mudas;Própria;;;1,500.00;0.00;1,500.00;18,000.00
+;;6848;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;45;45;Faustino Alves da Silva;28/02/2021 16:27:44;Outros;Cacau;Mudas;Própria;;;10,000.00;0.00;10,000.00;110,000.00
+;;6787;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;159;;Delmiro Ribeiro da Silva;06/03/2021 18:28:00;Outros;Cacau;Mudas;Ambas;Não;;6,000.00;0.00;6,000.00;48,000.00
+;;6595;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;190;190;Jose da Cruz Correia;18/02/2021 19:56:30;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6970;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;730;;Ireni de Almeida Arruda;27/02/2021 12:57:27;Outros;Cacau;Ambas;Própria;Não;;700.00;0.00;700.00;8,400.00
+;;6550;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;184;184;Paulo Hernandes de Santos Gomes;12/02/2021 20:50:58;Outros;Cacau;Mudas;Própria;Não Sabe;;18,000.00;0.00;18,000.00;198,000.00
+;;6551;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;188;188;Osvaldo do Carmo de Conceição;16/02/2021 13:57:26;Outros;Cacauicultura;Mudas;Comprada;;;60.00;0.00;60.00;720.00
+;;6976;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;500;;Raimundo Rodrigues Sobrinho;27/02/2021 16:58:33;Outros;Cacau;Sementes;Doada;;;5,000.00;0.00;5,000.00;45,000.00
+;;6976;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;500;;Raimundo Rodrigues Sobrinho;27/02/2021 16:58:33;Banana;;Mudas;Própria;;Não;300.00;300.00;0.00;0.00
+;;6692;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;736;;Valter Pires Rosa;13/02/2021 13:28:43;Outros;Cacau;Mudas;Própria;Não;;2,000.00;0.00;2,000.00;20,000.00
+;;6593;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;155A;155;Enival Gonçalves de Oliveira;18/02/2021 12:28:53;Outros;Cacau;Mudas;Própria;;;7,000.00;0.00;7,000.00;77,000.00
+;;7122;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;718;;Wanderson Lucio Pacheco;14/02/2021 14:07:00;Outros;Cacaueiro;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6600;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;19;19;Osana Aldina Sousa dos Santos;25/02/2021 18:20:44;Outros;Cacau;Mudas;Própria;;;4,000.00;0.00;4,000.00;48,000.00
+;;6720;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;21;21;Claudecir Schinatto;25/02/2021 21:03:58;Outros;Cacau;Mudas;Própria;;;2,000.00;0.00;2,000.00;22,000.00
+;;6869;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;30;30;Tatyany Gomes Ferreira de Paulo;02/03/2021 19:45:36;Outros;1000;Mudas;Própria;;;1,000.00;0.00;1,000.00;11,500.00
+;;7039;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;676;;Armindo Guarez;24/02/2021 18:58:49;Outros;Cacau;Mudas;Doada;Não;;1,500.00;0.00;1,500.00;15,000.00
+;;6518;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;677A;;Domingos Joaquim Gomes Junior;16/02/2021 14:00:48;Outros;Cacau;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6518;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;677A;;Domingos Joaquim Gomes Junior;16/02/2021 14:00:48;Milho;;Sementes;Comprada;Não;;3,840.00;3,840.00;0.00;0.00
+;;6846;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;08;08;Francisco Vieira da Silva;12/02/2021 16:14:01;Outros;Cacau;Mudas;Própria;;;1,000.00;0.00;1,000.00;11,000.00
+;;6526;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;684;;Junior Rodrigues da Silva;13/02/2021 13:16:59;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6598;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;93;93;Deusdete Tavares de Sousa;24/02/2021 17:12:34;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;7108;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;112;;Abel de Sousa Soares;05/03/2021 19:00:08;Outros;Cacau;Mudas;Doada;Não;;1,000.00;0.00;1,000.00;7,000.00
+;;6758;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;656;;José  jeremias de Araújo;23/02/2021 20:12:56;Outros;Cacau;Ambas;Doada;Não;;40.00;0.00;40.00;400.00
+;;6806;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;122;;Natanael Gomes de Souza;06/03/2021 19:41:48;Outros;Cacau;Mudas;Ambas;Não;;0.00;0.00;0.00;0.00
+;;6907;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;123;;Kellen Coelho da Silva Araújo;01/03/2021 18:44:41;Outros;Cacau;Mudas;Própria;Não;;150.00;0.00;150.00;1,500.00
+;;6907;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;123;;Kellen Coelho da Silva Araújo;01/03/2021 18:44:41;Mandioca;;Mudas;Própria;Não;;21,000.00;0.00;21,000.00;6,500.00
+;;6696;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;120;;Ronaldo Rodrigues de Oliveira;05/03/2021 12:25:51;Outros;Cacau;Mudas;Comprada;Não;;500.00;0.00;500.00;6,000.00
+;;6562;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;165A;165;Sinesio Marcos de matos;18/02/2021 13:51:17;Outros;Cacau;Mudas;Própria;;;500.00;0.00;500.00;6,000.00
+;;6636;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;687A;;Luciano  Martins dos  Santos;21/02/2021 13:27:35;Outros;Cacau;Sementes;Própria;Não;;9,000.00;0.00;9,000.00;90,000.00
+;;6678;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;124;;José Valto Alves da Silva;01/03/2021 20:19:54;Outros;Cacau;Mudas;Doada;Não;;3,000.00;0.00;3,000.00;27,000.00
+;;6689;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;66;66;Francisco Ribeiro da Silva;24/02/2021 16:38:15;Outros;Cacau;Mudas;Própria;;;1,500.00;0.00;1,500.00;18,000.00
+;;6902;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;655;;Manoel Modesto de Faria;17/02/2021 17:34:40;Outros;Cacau;Sementes;Doada;Não;;1,000.00;0.00;1,000.00;9,300.00
+;;6965;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;295;;Janes Vieira Gomes;17/02/2021 17:23:12;Outros;Cacau;Ambas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6965;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;295;;Janes Vieira Gomes;17/02/2021 17:23:12;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;8.00
+;;6816;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;303b;;Edson Ribeiro de Oliveira;07/03/2021 15:14:59;Milho;;Sementes;Comprada;;;1,600.00;1,600.00;0.00;0.00
+;;7038;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;767;;Edmilson Viera de Souza;23/02/2021 17:16:41;Banana;;Mudas;Doada;Não;Sim;;;;
+;;7038;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;767;;Edmilson Viera de Souza;23/02/2021 17:16:41;Outros;Cacau;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6619;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;278;;Pedro Limeira de Sousa;27/02/2021 18:42:53;Outros;Cacau;Mudas;Própria;Não;;1,200.00;0.00;1,200.00;14,400.00
+;;6616;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;276;;Maria Raimunda Silva Lima;27/02/2021 14:17:58;Outros;Cacau;Ambas;Própria;Não;;2,000.00;0.00;2,000.00;24,000.00
+;;6617;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;283;;Juraci Candido Gomes;27/02/2021 16:57:38;Outros;Cacau;Ambas;Comprada;Não;;2,000.00;0.00;2,000.00;24,000.00
+;;7000;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;619;;Lázaro Dias da Silva;23/02/2021 18:37:57;Outros;Cacau;Sementes;Doada;;;200.00;0.00;200.00;2,200.00
+;;6625;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;257;;José Ribamar da Silva;28/02/2021 16:42:45;Outros;Cacau;Mudas;Própria;Não;;4,000.00;0.00;4,000.00;40,000.00
+;;6615;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;284;;Honório Almeida Lima;27/02/2021 14:00:33;Outros;Cacau;Mudas;Própria;Não;;1,000.00;0.00;1,000.00;12,000.00
+;;6624;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;262;125;Iracy David da Silva;28/02/2021 13:37:07;Outros;Cacau;Mudas;Própria;Não;;8,000.00;0.00;8,000.00;96,000.00
+;;6681;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;149;;Maria Anunciação Gomes dos Santos Vieira;05/03/2021 14:49:31;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6618;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;267;;Antônio Afonso Ferreira;27/02/2021 18:16:16;Outros;Cacau;Mudas;Própria;Não;;1,000.00;0.00;1,000.00;10,000.00
+;;6947;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;62;62;Thiago Messias Botelho Santos;24/02/2021 16:05:24;Outros;Cacau;Mudas;Própria;;;1,000.00;0.00;1,000.00;12,000.00
+;;6623;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;271;127;Sinomar Alves Correa;28/02/2021 11:31:13;Outros;Cacau;Ambas;Própria;Não;;3,000.00;0.00;3,000.00;36,000.00
+;;6953;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;173;;Oracio Batista de Oliveira;03/03/2021 21:32:38;Outros;Cacau;Mudas;Própria;Não;;2,500.00;0.00;2,500.00;25,000.00
+;;6700;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;266B;;Francisco das Chagas de Sousa Oliveira;03/03/2021 17:16:10;Outros;Cacau;Sementes;Doada;;;1,000.00;0.00;1,000.00;15,000.00
+;;6675;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;285A;;José Antônio da Cruz;21/02/2021 13:53:10;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;6891;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;150B;;Renilda Amaral de Souza;01/03/2021 01:23:02;Outros;Cacau;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;6989;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;588;;Edson Sobrinho Silva;23/02/2021 13:53:22;Milho;;Sementes;Própria;;;12,000.00;12,000.00;0.00;0.00
+;;7006;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;584B;;Milton Moreira de Almeida;25/02/2021 12:30:22;Outros;Cacau;Sementes;Doada;;;2,000.00;0.00;2,000.00;16,000.00
+;;7006;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;584B;;Milton Moreira de Almeida;25/02/2021 12:30:22;Milho;;Sementes;Comprada;;;1,800.00;1,800.00;0.00;0.00
+;;6494;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;705A;;José Nildo Tavares;15/02/2021 14:24:26;Outros;Cacau;Mudas;Doada;Não;;1,000.00;0.00;1,000.00;10,000.00
+;;7063;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;175;;Paulino Batista Resende;01/03/2021 12:42:32;Outros;Cacau;Mudas;Doada;Não;;1,200.00;0.00;1,200.00;12,000.00
+;;6833;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;227;;Carlos Oliveira de Sousa;27/02/2021 13:45:22;Outros;Cacau;Mudas;Doada;Não;;4,000.00;0.00;4,000.00;28,000.00
+;;6621;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;225;;Lindomar Jacinto;28/02/2021 20:16:15;Outros;Cacau;Sementes;Doada;Não;;600.00;0.00;600.00;6,000.00
+;;6620;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;232;;Antônio Henrique Alvarenga Lima;28/02/2021 19:15:22;Outros;Cacau;Ambas;Própria;Não;;3,000.00;0.00;3,000.00;30,000.00
+;;6522;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;703;;VALDELI DE ALMEIDA LARA;16/02/2021 19:15:35;Outros;Cacau;Ambas;Comprada;Não;;3,000.00;0.00;3,000.00;33,900.00
+;;6475;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;208;;João Ribeiro da Silva;12/02/2021 23:02:24;Outros;Açaí;Mudas;Comprada;Não;;720.00;180.00;540.00;900.00
+;;6475;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;208;;João Ribeiro da Silva;12/02/2021 23:02:24;Outros;Cacau;Mudas;Doada;Não;;60.00;0.00;60.00;540.00
+;;6525;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;850;;Valterson Sousa;18/02/2021 19:42:43;Outros;Cacau;Ambas;Doada;Não;;1,000.00;0.00;1,000.00;10,000.00
+;;6498;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;851;;Diana dos Santos Pascoa;13/02/2021 15:57:14;Mandioca;;Mudas;Comprada;Não;;75,000.00;0.00;75,000.00;0.00
+;;7041;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;212;;Antônio da Conceição;27/02/2021 17:50:26;Milho;;Sementes;Comprada;Não;;1,700.00;1,700.00;0.00;0.00
+;;6502;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;854;;Iracilda da Páscoa;16/02/2021 19:37:25;Outros;Cacau;Ambas;Doada;Não;;5,000.00;0.00;5,000.00;50,000.00
+;;6626;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;855;;Dorivan Mariano Dutra;16/02/2021 19:29:54;Outros;Cacau;Mudas;Doada;Não;;1,000.00;0.00;1,000.00;12,000.00
+;;6954;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;222;;Dismar Pereira do Lago;04/03/2021 12:37:40;Outros;Cacau;Sementes;Ambas;Não;;1,250.00;0.00;1,250.00;8,750.00
+;;7114;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;221;;VALMIR COELHO DA SILVA;27/02/2021 16:58:18;Outros;Cacau;Mudas;Doada;Não;;5,000.00;0.00;5,000.00;40,000.00
+;;6803;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;198;;Gabriel Ribeiro Araújo;03/03/2021 00:15:17;Outros;Cacau;Mudas;Doada;Não;;700.00;0.00;700.00;7,000.00
+;;7109;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;202;;Maria Eunice da Conceição;06/03/2021 17:27:54;Outros;Cacau;Mudas;Doada;Não;;1,000.00;0.00;1,000.00;10,000.00
+;;7111;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;203;;Maria das Graças dos Santos Gomes;06/03/2021 13:42:03;Outros;Cacau;Mudas;Própria;Não;;600.00;0.00;600.00;8,400.00
+;;6906;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;207;;Adão dos Santos;06/03/2021 15:33:16;Outros;Cacau;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;6906;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;207;;Adão dos Santos;06/03/2021 15:33:16;Banana;;Mudas;Ambas;Não;Não;700.00;20.00;680.00;693.60
+;;6906;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;207;;Adão dos Santos;06/03/2021 15:33:16;Outros;Açaí;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;7121;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;847;;Wanderson Lucio Pacheco;14/02/2021 14:01:09;Outros;Cacau;Mudas;Doada;Não;;3,000.00;0.00;3,000.00;45,000.00
+;;6529;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;853;;Maria Martins dos Santos;13/02/2021 16:43:41;Outros;Cacau;Sementes;Própria;Não;;0.00;0.00;0.00;0.00
+;;6990;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;527;;João da Silva de Sousa;23/02/2021 20:36:03;Outros;Cacau;Sementes;Doada;;;1,000.00;0.00;1,000.00;8,000.00
+;;7037;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;160;;José Nilton Sousa Ferreira;03/03/2021 19:38:46;Outros;Cacau;Mudas;Doada;Não;;1,000.00;0.00;1,000.00;8,000.00
+;;7101;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;161;;Sebastiana Rodrigues da Carvalho;05/03/2021 14:25:45;Outros;Cacau;Sementes;Própria;Não;;0.00;0.00;0.00;0.00
+;;7101;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;161;;Sebastiana Rodrigues da Carvalho;05/03/2021 14:25:45;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;6581;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;629;;Sebastião Bueno da Silva;23/02/2021 19:13:23;Outros;Cacau;Mudas;Própria;Não;;1,000.00;0.00;1,000.00;7,000.00
+;;6890;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;171;;Adriano Lopes Vieira;04/03/2021 17:15:15;Outros;Cacau;Mudas;Comprada;Não;;500.00;0.00;500.00;5,000.00
+;;6957;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;871;;Domingos Grisorte de Sousa;20/02/2021 14:10:28;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;6957;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;871;;Domingos Grisorte de Sousa;20/02/2021 14:10:28;Outros;Cacau;Sementes;Doada;;;4,800.00;0.00;4,800.00;43,200.00
+;;6596;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;172;172;Joscenita Moreira dos Santos;23/02/2021 16:11:23;Outros;Cacau;Sementes;Própria;;;150.00;0.00;150.00;1,800.00
+;;6997;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;809;;Antônio Silvério Braga;24/02/2021 14:56:22;Outros;Cacau;Sementes;Própria;;;500.00;0.00;500.00;7,300.00
+;;6972;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;481;;Manoel Modesto de Faria;26/02/2021 10:14:37;Outros;Cacau;Sementes;Doada;;;1,500.00;0.00;1,500.00;13,500.00
+;;6972;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;481;;Manoel Modesto de Faria;26/02/2021 10:14:37;Milho;;Sementes;Comprada;;;4,500.00;4,500.00;0.00;0.00
+;;6537;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;487;;Edilei Martins Ferreira;20/02/2021 16:37:17;Outros;Cacau;Mudas;Própria;Não;;2,500.00;0.00;2,500.00;25,000.00
+;;6665;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;484;;Rita Sirqueira Araujo;24/02/2021 14:45:20;Milho;;Sementes;Comprada;Não;;5,000.00;3,000.00;2,000.00;3,200.00
+;;6665;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;484;;Rita Sirqueira Araujo;24/02/2021 14:45:20;Outros;Cacau;Mudas;Própria;Não;;1,000.00;0.00;1,000.00;10,000.00
+;;6586;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;791;;Marinho Alves de Souza;16/02/2021 18:24:00;Outros;Cacau;Mudas;Doada;Não;;6,200.00;0.00;6,200.00;62,000.00
+;;6964;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;789;;Janes Vieira Gomes;13/02/2021 11:15:54;Mandioca;;Mudas;Doada;Não;;80,000.00;80,000.00;0.00;0.00
+;;6964;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;789;;Janes Vieira Gomes;13/02/2021 11:15:54;Outros;Cacau;Ambas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6964;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;789;;Janes Vieira Gomes;13/02/2021 11:15:54;Milho;;Sementes;Comprada;Não;;7,500.00;6,000.00;1,500.00;2,400.00
+;;6793;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;795;;Raimundo Nonato Martins Silva;21/02/2021 13:54:27;Outros;Cacau;Sementes;Própria;Não;;1,000.00;0.00;1,000.00;10,000.00
+;;6592;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;157;157;Daniel Augusto Vieira França;17/02/2021 21:42:13;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6950;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;470;;Amarilton Ferreira da Silveira;26/02/2021 13:11:45;Outros;Cacau;Sementes;Doada;;;1,500.00;0.00;1,500.00;18,000.00
+;;6909;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;138;;Antônio Cordeiro;04/03/2021 01:40:54;Outros;Cacau;Mudas;Comprada;Não;;1,000.00;0.00;1,000.00;8,000.00
+;;6968;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;475;;Edson Modesto de Faria;26/02/2021 11:33:19;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;6968;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;475;;Edson Modesto de Faria;26/02/2021 11:33:19;Milho;;Sementes;Comprada;;;7,560.00;7,560.00;0.00;0.00
+;;6903;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;246;;Claudiomir Domiciano da Silva;28/02/2021 11:49:29;Outros;Cacau;Mudas;Doada;Não;;7,000.00;0.00;7,000.00;70,000.00
+;;7049;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;455;;Bruno Sousa Rodrigues;27/02/2021 14:51:03;Outros;Cacau;Sementes;Doada;;;3,000.00;0.00;3,000.00;27,000.00
+;;7049;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;455;;Bruno Sousa Rodrigues;27/02/2021 14:51:03;Banana;;Mudas;Própria;;Não;200.00;200.00;0.00;0.00
+;;6922;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;250;;Claudiomir Domiciano da Silva;28/02/2021 13:13:41;Outros;Cacau;Mudas;Doada;Não;;7,000.00;0.00;7,000.00;70,000.00
+;;6597;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;15;15;Sebastião Higino da Silva;25/02/2021 10:39:21;Outros;3;Sementes;Própria;;;0.00;0.00;0.00;0.00
+;;6533;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;893;;Messias Dias da Silva;18/02/2021 19:29:38;Outros;Cacau;Mudas;Própria;Não;;5,000.00;0.00;5,000.00;70,000.00
+;;6761;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;10;10;Gilmar Borges de Morais;12/02/2021 16:40:08;Outros;Cacau;Mudas;Própria;;;1,000.00;0.00;1,000.00;11,000.00
+;;6651;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;886;886;Italo dos Anjos de Sousa;01/03/2021 13:32:21;Outros;Cacau;Mudas;Própria;;;1,500.00;0.00;1,500.00;15,000.00
+;;6680;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;100;;Francineto da Conceição;01/03/2021 17:38:59;Banana;;Mudas;Doada;Não;Não;42,000.00;0.00;42,000.00;20,000.00
+;;6680;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;100;;Francineto da Conceição;01/03/2021 17:38:59;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6538;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;770;;Fabio Joaquim Gomes  de Queiroz;19/02/2021 12:19:58;Outros;Cacau;Ambas;Doada;Não;;20.00;0.00;20.00;210.00
+;;6877;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;84;;Dilermano Alves da Cruz;02/03/2021 20:13:38;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;5797;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;817A;;Joab de Oliveira Fonseca;08/12/2020 08:32:57;Outros;Cacau;Mudas;Própria;;;300.00;0.00;300.00;3,000.00
+;;6756;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;681A;;Adriano Ribeiro campelo;25/02/2021 00:07:41;Outros;Cacau;Ambas;Doada;Não;;1,200.00;0.00;1,200.00;12,000.00
+;;6896;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;80A;;Eleusina Teonilia Carvalho;06/03/2021 21:36:15;Outros;Cacau;Mudas;Doada;Não;;2,000.00;0.00;2,000.00;20,000.00
+;;6943;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;421;;Marilene Marques de Carvalho;26/02/2021 18:10:33;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;6721;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;91;91;Jair Gomes Ferreira;26/02/2021 16:09:21;Outros;Cacau;Mudas;Ambas;;;0.00;0.00;0.00;0.00
+;;6714;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;25;25;Nelson Cardim dos Santos;24/02/2021 18:53:11;Outros;Cacau;Mudas;Própria;;;3,500.00;0.00;3,500.00;43,000.00
+;;7079;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;194;;Luis Carlos Rodrigues da Silva;01/03/2021 13:54:50;Milho;;Sementes;Própria;Não;;0.00;0.00;0.00;0.00
+;;7079;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;194;;Luis Carlos Rodrigues da Silva;01/03/2021 13:54:50;Outros;Cacau;Mudas;Doada;Não;;1,200.00;0.00;1,200.00;12,000.00
+;;6658;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;427B;;José Antônio Correa de Sousa;18/02/2021 21:17:15;Outros;Cacau;Mudas;Própria;Não;;2,000.00;0.00;2,000.00;28,000.00
+;;6929;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;420A;;Maria de Fátima Fernandes de Brito;27/02/2021 19:58:54;Banana;;Mudas;Própria;;Não;200.00;200.00;0.00;0.00
+;;6929;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;420A;;Maria de Fátima Fernandes de Brito;27/02/2021 19:58:54;Outros;Cacau;Sementes;Doada;;;0.00;0.00;0.00;0.00
+;;6924;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;72;;Albertino Pereira da Silva;02/03/2021 13:28:46;Arroz;;Sementes;Doada;Não;;300.00;300.00;0.00;0.00
+;;6499;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;806;;Deniston Mariano Dutra;15/02/2021 18:26:37;Outros;Cacaueiro;Mudas;Doada;Não;;15,500.00;0.00;15,500.00;18,600.00
+;;5391;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;781;781;Nerci Polachini da Silva;18/11/2020 16:36:40;Outros;Cacau;Sementes;Própria;Sim;;4,000.00;0.00;4,000.00;44,000.00
+;;6395;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;768;768;Odelio Rodrigues Onorio;11/12/2020 17:55:05;Outros;Cacau;Sementes;Própria;Sim;;5,000.00;0.00;5,000.00;50,000.00
+;;6372;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;769;769;Zidelvan Aparecido Faria;10/12/2020 14:53:34;Outros;Cacau;Mudas;Própria;;;5,000.00;0.00;5,000.00;55,000.00
+;;6491;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;729;;ILDA PAULINO DE QUEIROZ BORGES;15/02/2021 16:49:18;Outros;Cacaueiro;Sementes;Doada;Não;;0.00;0.00;0.00;0.00
+;;6505;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;693;;Deniston Mariano Dutra;15/02/2021 18:45:24;Outros;Cacaueiro;Mudas;Doada;Não;;2,500.00;0.00;2,500.00;30,000.00
+;;7115;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;87;;Claudiomir Domiciano da Silva;01/03/2021 17:16:39;Outros;Cacau;Mudas;Comprada;Não;;4,000.00;0.00;4,000.00;40,000.00
+;;7120;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;699;;Joaquim Vieira da Silva;21/02/2021 15:34:51;Outros;Cacau;Mudas;Própria;Não;;2,000.00;0.00;2,000.00;32,000.00
+;;6541;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;678;;MARIA ELEUSA QUEIROZ DE MOURA;16/02/2021 12:20:23;Outros;Cacaueiro;Mudas;Doada;Não;;1,200.00;0.00;1,200.00;13,560.00
+;;5398;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;659;676;Armindo Guarez;02/12/2020 12:49:24;Outros;Cacau;Sementes;Própria;Sim;;15,000.00;0.00;15,000.00;150,000.00
+;;6521;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;755;;Adonias Mota do Espírito Santo;16/02/2021 17:56:58;Outros;Cacau;Mudas;Doada;Não;;8,000.00;0.00;8,000.00;80,000.00
+;;6784;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;75A;;Bruno Ferreira;02/03/2021 14:26:04;Banana;;Mudas;Doada;Não;Não;10,080.00;0.00;10,080.00;7,200.00
+;;6784;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;75A;;Bruno Ferreira;02/03/2021 14:26:04;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6376;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;652A;652;Antonia Maria dos Reis;10/12/2020 17:43:45;Outros;Cacau;Mudas;Própria;;;3,000.00;0.00;3,000.00;33,000.00
+;;6484;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;666;;MARCIA CLEIDE DE MOURA;13/02/2021 19:13:08;Outros;Cacaueiro;Ambas;Doada;Não;;9,290.00;0.00;9,290.00;102,027.07
+;;6484;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;666;;MARCIA CLEIDE DE MOURA;13/02/2021 19:13:08;Milho;;Sementes;Comprada;Não;;10,000.00;10,000.00;0.00;0.00
+;;5409;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;617;617;Thiago Rodrigues da Paz;20/11/2020 14:17:47;Outros;Cacau;Sementes;Doada;Não;;4,000.00;0.00;4,000.00;4,000.00
+;;5421;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;600;600;Antonio Alves dos Reis;06/12/2020 14:05:35;Milho;;Sementes;Comprada;Não;;90,000.00;40,000.00;50,000.00;50,000.00
+;;6506;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;558;;Mario da Roza Dias;16/02/2021 16:05:45;Outros;Cacau;Sementes;Doada;Não;;400.00;0.00;400.00;5,600.00
+;;5872;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;581;581;Cleonice Oliveira de Deus;24/11/2020 14:49:33;Outros;Cacau;Sementes;Própria;Não;;4,200.00;0.00;4,200.00;42,000.00
+;;5420;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;559;559;José Alves dos Reis;06/12/2020 12:37:45;Outros;Cacau;Sementes;Própria;Sim;;4,400.00;0.00;4,400.00;44,000.00
+;;5289;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;565;;Euzébio Pereira Amorim;26/11/2020 15:15:04;Outros;Cacau;Mudas;Própria;;;7,600.00;0.00;7,600.00;106,400.00
+;;6983;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;545;;José Dantas dos Santos;25/02/2021 18:04:29;Outros;Cacaueiro;Sementes;Doada;;;0.00;0.00;0.00;0.00
+;;6510;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;497A;;João Gonçalves Martins;14/02/2021 13:02:42;Outros;Cacau;Sementes;Própria;Não;;1,200.00;0.00;1,200.00;17,520.00
+;;5291;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;454A;;Maria de Jesus Pereira Lopes;25/11/2020 14:12:51;Outros;Cacau;Mudas;Própria;;;800.00;0.00;800.00;7,200.00
+;;5065;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;452;;Domingas Santana Cunha;24/11/2020 15:15:53;Outros;Cacau;Mudas;Própria;;;2,000.00;0.00;2,000.00;25,000.00
+;;5319;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;408;;Jovita Ferreira Brasilino;18/11/2020 17:27:26;Outros;Cacau;Sementes;Própria;Sim;;400.00;0.00;400.00;4,000.00
+;;5319;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;408;;Jovita Ferreira Brasilino;18/11/2020 17:27:26;Outros;Ype;Mudas;Própria;Sim;;0.00;0.00;0.00;0.00
+;;6256;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;446A;;Eduardo Martins Quinup;24/11/2020 15:20:54;Milho;;Sementes;Própria;Não;;720.00;720.00;0.00;0.00
+;;6555;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;423A;;Silvon Gonçalves dos Santos;18/02/2021 15:18:09;Outros;Cacau;Sementes;Doada;Não;;3,000.00;0.00;3,000.00;30,000.00
+;;6555;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;423A;;Silvon Gonçalves dos Santos;18/02/2021 15:18:09;Milho;;Sementes;Comprada;Não;;7,500.00;7,500.00;0.00;0.00
+;;7060;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;788I;;Eugênio Alves Batista;19/02/2021 19:24:01;Outros;Cacau;Sementes;Doada;;;3,000.00;0.00;3,000.00;45,000.00
+;;7042;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;384;;Nara Suzy de Jesus Alípio;26/02/2021 13:54:03;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;7092;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;59A;;Flávio Rodrigues da Silva;02/03/2021 19:49:00;Milho;;Sementes;Comprada;Não;;0.00;0.00;0.00;0.00
+;;7092;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;59A;;Flávio Rodrigues da Silva;02/03/2021 19:49:00;Outros;Cacau;Sementes;Própria;Não;;0.00;0.00;0.00;0.00
+;;7091;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;59;;Mônica Alencar de Oliveira;02/03/2021 18:52:20;Outros;Cacau;Mudas;Doada;Não;;1,200.00;0.00;1,200.00;12,000.00
+;;7064;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;63;;Arvelino Pinheiro Coutrinho;01/03/2021 17:34:24;Outros;Cacau;Mudas;Doada;Não;;1,000.00;0.00;1,000.00;12,000.00
+;;6544;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;300;;Vandeval Correia do Prado;14/02/2021 17:06:09;Outros;Cacau;Sementes;Doada;;;850.00;50.00;800.00;8,000.00
+;;6544;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;300;;Vandeval Correia do Prado;14/02/2021 17:06:09;Banana;;Mudas;Própria;;Não;4,000.00;4,000.00;0.00;0.00
+;;6815;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;296;;José Paulo de Oliveira;14/02/2021 14:37:32;Mandioca;;Mudas;Própria;;;4,000.00;4,000.00;0.00;0.00
+;;6807;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;272;;João Bernardino da Silva;27/02/2021 12:01:10;Outros;Cacau;Mudas;Doada;Não;;5,800.00;0.00;5,800.00;70,000.00
+;;6446;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;236;;Ivane Maria dos Santos de Jesus;12/12/2020 10:55:08;Milho;;Sementes;Própria;Não;;200.00;200.00;;
+;;6446;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;236;;Ivane Maria dos Santos de Jesus;12/12/2020 10:55:08;Banana;;Mudas;Própria;;Não;0.00;0.00;0.00;0.00
+;;6446;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;236;;Ivane Maria dos Santos de Jesus;12/12/2020 10:55:08;Outros;Cacau;Mudas;Própria;;;2,000.00;0.00;2,000.00;18,000.00
+;;6545;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;247;;Jairo Septimio da Silva;16/02/2021 11:18:04;Milho;;Sementes;Comprada;;;7,500.00;7,500.00;0.00;0.00
+;;6545;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;247;;Jairo Septimio da Silva;16/02/2021 11:18:04;Outros;Cacau;Sementes;Doada;;;250.00;250.00;0.00;0.00
+;;5410;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;494;494;Albertino dos Santos Sousa;06/12/2020 15:38:55;Outros;Cacau;Sementes;Própria;Sim;;800.00;0.00;800.00;8,800.00
+;;7110;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;162;;Francileide Castro Barbosa da Silva;06/03/2021 19:29:27;Outros;Cacau;Mudas;Comprada;Não;;6,000.00;0.00;6,000.00;48,000.00
+;;6753;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;143A;143;Luiz Firmino da Cruz Correa;18/02/2021 21:15:06;Outros;Cacau;Mudas;Própria;;;1,200.00;0.00;1,200.00;14,400.00
+;;7081;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;152;;Jonivaldo Antônio da Mata;04/03/2021 19:26:23;Outros;Cacau;Mudas;Doada;Não;;5,000.00;0.00;5,000.00;60,000.00
+;;6760;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;63;;Everaldo José Rodrigues;01/03/2021 16:22:51;Banana;;Mudas;Doada;Não;Não;5,000.00;500.00;4,500.00;3,375.00
+;;6760;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;63;;Everaldo José Rodrigues;01/03/2021 16:22:51;Outros;Cacau;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;6874;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;382A;;Simão Rosa de Sales;01/03/2021 19:25:29;Outros;Folhosas;Sementes;Própria;;;1,000.00;100.00;900.00;24,000.00
+;;6719;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;16;16;Ogevan Nascimento Costa;25/02/2021 20:36:56;Outros;Cacau;Mudas;Própria;;;5,000.00;0.00;5,000.00;55,000.00
+;;6719;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;16;16;Ogevan Nascimento Costa;25/02/2021 20:36:56;Outros;Pimenta do reino;Mudas;Própria;;;170.00;1.00;169.00;4,250.00
+;;6904;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;170;;Manoel Sebastião Xavier;04/03/2021 18:25:09;Outros;Cacau;Mudas;Doada;Não;;1,000.00;0.00;1,000.00;8,000.00
+;;6730;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;382D;;Luizete Rodrigues Miranda Silva;02/03/2021 16:16:03;Outros;Cacau;Sementes;Doada;;;4,000.00;0.00;4,000.00;40,000.00
+;;5119;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;546B;;Ana Cristina Amorim de Sousa;03/12/2020 09:06:18;Outros;Cacau;Mudas;Própria;;;2,800.00;2,800.00;0.00;25,200.00
+;;5120;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;557C;;Laurentino Ferreira moura;03/12/2020 09:22:49;Outros;Cacau;Mudas;Comprada;;;3,200.00;0.00;3,200.00;32,000.00
+;;6424;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;878;;Lindionete Souza;02/12/2020 13:08:05;Outros;Cacau;Sementes;Própria;Sim;;10.00;0.00;10.00;140.00
+;;6424;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;878;;Lindionete Souza;02/12/2020 13:08:05;Outros;Açaí;Sementes;Própria;Sim;;50.00;0.00;50.00;300.00
+;;6424;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;878;;Lindionete Souza;02/12/2020 13:08:05;Mandioca;;Mudas;Própria;;;480.00;0.00;480.00;960.00
+;;6177;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;870;;Germana das Graças Gomes de Castro;02/12/2020 17:50:12;Milho;;Sementes;Comprada;Sim;;3,000.00;3,000.00;0.00;1,500.00
+;;5804;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;745A;;Osvalmir José Julião;08/12/2020 12:59:11;Outros;Cacau;Mudas;Própria;;;4,995.00;0.00;4,995.00;62,500.00
+;;5806;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;744;;Maria de Lourdes Ribeiro;08/12/2020 16:51:49;Outros;Cacau;Mudas;Própria;;;200.00;0.00;200.00;2,500.00
+;;6272;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;570;570;Antonio Dalmi Alves;08/12/2020 13:02:47;Outros;Cacau;Mudas;Própria;Sim;;400.00;0.00;400.00;4,400.00
+;;6320;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;542;542;Felix Ferreira Vasconcelos;10/12/2020 11:46:54;Outros;Cacau;Sementes;Própria;Sim;;30,000.00;0.00;30,000.00;330,000.00
+;;5802;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;444;;Terezinha Maria Alves Corgozinho;08/12/2020 12:22:39;Outros;Cacau;Mudas;Própria;;;2,775.00;0.00;2,775.00;34,687.00
+;;6356;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;214;;Thayza Pinheiro Fernandes;12/12/2020 12:37:17;Milho;;Sementes;Comprada;Não;;1,800.00;1,800.00;0.00;0.00
+;;6356;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;214;;Thayza Pinheiro Fernandes;12/12/2020 12:37:17;Outros;Acai;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6356;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;214;;Thayza Pinheiro Fernandes;12/12/2020 12:37:17;Mandioca;;Sementes;Própria;;;1,000.00;1,000.00;0.00;0.00
+;;6356;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;214;;Thayza Pinheiro Fernandes;12/12/2020 12:37:17;Outros;Cacau;Mudas;Ambas;;;2,700.00;0.00;2,700.00;29,000.00
+;;5976;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;309;;Paulo Rocha de Macedo;27/11/2020 15:27:33;Milho;;Sementes;Comprada;Não;;500.00;500.00;0.00;0.00
+;;5976;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;309;;Paulo Rocha de Macedo;27/11/2020 15:27:33;Mandioca;;Mudas;Própria;;;1,500.00;1,500.00;0.00;0.00
+;;5082;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;473;;José de Jesus Rodrigues;26/11/2020 13:25:13;Outros;Cacau;Mudas;Comprada;;;0.00;0.00;0.00;0.00
+;;5293;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;496;;Raimundo Pereira Lopes;25/11/2020 15:26:16;Outros;Cacau;Mudas;Própria;;;800.00;0.00;800.00;8,000.00
+;;5290;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;882;;Fernando de Jesus Silva;25/11/2020 13:58:46;Outros;Cacau;Mudas;Própria;;;400.00;0.00;400.00;4,000.00
+;;5067;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;650;;José Pereira Lima;19/11/2020 13:46:34;Outros;Cacau;Mudas;Própria;;;900.00;0.00;900.00;8,100.00
+;;4954;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;841;841;Jose Alves dos Santos;22/11/2020 13:08:35;Outros;Cacau;Sementes;Comprada;Não Sabe;;15,000.00;0.00;15,000.00;150,000.00
+;;5148;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;777;777;Gercilia Maria basto da Silva;18/11/2020 11:46:12;Outros;Cacau;Sementes;Própria;Não;;450.00;0.00;450.00;4,050.00
+;;5063;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;562;;Adriana Dias;18/11/2020 11:47:52;Mandioca;;Mudas;Própria;;;10,000.00;0.00;10,000.00;0.00
+;;5423;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;572A;572 A;Francineide dos Santos Sousa;06/12/2020 15:04:48;Outros;Cacau;Sementes;Própria;Sim;;400.00;0.00;400.00;4,400.00
+;;6690;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;02;02;Getulio Dourado Fialho;26/02/2021 10:50:29;Outros;Cacau;Mudas;Própria;;;500.00;0.00;500.00;6,000.00
+;;6563;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;64;64;Edson Gomes Barros;19/02/2021 12:31:45;Outros;Cacau;Mudas;Própria;;;7,000.00;0.00;7,000.00;78,000.00
+;;6781;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;57;;Ana Lucia da Silva;02/03/2021 12:12:30;Outros;Cacau;Mudas;Comprada;Não;;0.00;0.00;0.00;0.00
+;;6850;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;50;50;Faustino Alves da Silva;28/02/2021 16:45:10;Outros;Cacau;Sementes;Própria;;;0.00;0.00;0.00;0.00
+;;6857;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;176;;Valdelucio Paulo Mendes;01/03/2021 14:24:02;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6594;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;197;197;Jose da Cruz Correia;18/02/2021 19:33:42;Outros;Cacau;Mudas;Própria;;;1,000.00;0.00;1,000.00;12,000.00
+;;6496;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;683D;;Lucilene Sousa de Oliveira;16/02/2021 14:24:27;Outros;Cacau;Mudas;Doada;Não;;4,000.00;0.00;4,000.00;44,000.00
+;;6485;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;683;;Sônia Nascimento Brito Queiroz;12/02/2021 15:54:07;Outros;Cacau;Mudas;Comprada;Não;;12,000.00;0.00;12,000.00;144,000.00
+;;6501;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;683C;;Paulo José da Páscoa Oliveira;16/02/2021 13:26:34;Outros;Cacau;Ambas;Doada;Não;;200.00;0.00;200.00;480.00
+;;6422;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;599B;599;Lutero Oliveira de Deus;11/12/2020 20:28:06;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6421;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;599C;599;Gesiva Oliveira de Lima;11/12/2020 20:10:24;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6512;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;497C;;Italo dos Anjos de Sousa;14/02/2021 19:18:00;Outros;Cacau;Ambas;Comprada;Não;;6,300.00;0.00;6,300.00;67,000.00
+;;6511;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;497B;;Aparecida Moisés de Mendonça Caetano;14/02/2021 18:05:09;Outros;Cacau;Sementes;Própria;Não;;500.00;0.00;500.00;7,000.00
+;;7097;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;77;;Mauro Rodrigues dos Santos Conceição;07/03/2021 13:48:29;Outros;Cacau;Mudas;Comprada;Não;;700.00;0.00;700.00;8,400.00
+;;6488;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;807;;MARIA ELEUSA QUEIROZ DE MOURA;14/02/2021 11:03:49;Outros;Cacau;Mudas;Própria;Não;;1,500.00;0.00;1,500.00;17,000.00
+;;7113;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;73;;Josafá Ribeiro Silveira Ferreira;07/03/2021 13:26:03;Outros;Cacau;Mudas;Doada;Não;;400.00;0.00;400.00;3,600.00
+;;6481;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;756;;Onofre de Pacoa Oliveira;12/02/2021 18:03:51;Outros;Cacau;Mudas;Doada;Não;;100.00;0.00;100.00;1,050.00
+;;6523;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;755B;;Abraão Mota do Espírito Santo;16/02/2021 21:02:05;Outros;Cacau;Mudas;Doada;Não;;5,000.00;0.00;5,000.00;50,000.00
+;;6979;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;499;;Maria Antônia Rodrigues de Lima;27/02/2021 18:16:51;Milho;;Sementes;Comprada;;;400.00;400.00;0.00;0.00
+;;6979;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;499;;Maria Antônia Rodrigues de Lima;27/02/2021 18:16:51;Outros;Cacau;Sementes;Própria;;;500.00;0.00;500.00;7,300.00
+;;6979;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;499;;Maria Antônia Rodrigues de Lima;27/02/2021 18:16:51;Banana;;Mudas;Própria;;Não;200.00;200.00;0.00;0.00
+;;6830;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;331;;Juvenal Jesus dos Santos;18/02/2021 12:40:48;Outros;Cacau;Sementes;Doada;;;0.00;0.00;0.00;0.00
+;;6918;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;148;148;Jose Vilton Lima Mascarenhas;28/02/2021 10:58:17;Outros;Cacau;Mudas;Própria;;;300.00;0.00;300.00;3,300.00
+;;7103;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;146;;João Eli Pinto Brandão;05/03/2021 17:14:52;Outros;Cacau;Mudas;Doada;Não;;700.00;0.00;700.00;7,700.00
+;;5425;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;572;572;Luis dos Santos Sousa;06/12/2020 16:18:25;Outros;Cacau;Mudas;Própria;Sim;;500.00;0.00;500.00;5,500.00
+;;6503;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;689;;Joaci Timóteo de Oliveira ;16/02/2021 19:12:00;Outros;Cacau;Mudas;Doada;Não;;200.00;0.00;200.00;2,000.00
+;;6602;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;23;23;Vilmar Carmo de Oliveira;26/02/2021 11:15:35;Outros;Cacau;Mudas;Própria;;;4,500.00;0.00;4,500.00;54,000.00
+;;6543;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;294A;;Helio dos Santos Silva;15/02/2021 16:36:22;Mandioca;;Mudas;Própria;;;10,000.00;10,000.00;0.00;0.00
+;;5062;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;532;;José Rodrigues Pereira;24/11/2020 13:30:04;Outros;Cacau;Mudas;Própria;;;0.00;0.00;0.00;0.00
+;;6580;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;716B;;Thelma Pereira da Silva;22/02/2021 15:30:20;Outros;Cacau;Mudas;Doada;Não;;30.00;0.00;30.00;258.00
+;;7123;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;717A;;Wanderson Lucio Pacheco;14/02/2021 17:06:03;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6952;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;868B;;Simão Rosa de Sales;01/03/2021 16:50:59;Outros;Cacau;Sementes;Doada;;;3,300.00;0.00;3,300.00;33,000.00
+;;6524;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;728A;;Diego Frankilim de Queiroz Gomes;15/02/2021 14:19:58;Outros;Cacaueiro;Sementes;Doada;Não;;0.00;0.00;0.00;0.00
+;;6864;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;378A;;Claudiane Pinto de Oliveira;19/02/2021 14:18:04;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;6864;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;378A;;Claudiane Pinto de Oliveira;19/02/2021 14:18:04;Milho;;Sementes;Comprada;;;2,000.00;2,000.00;0.00;0.00
+;;6423;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;764;764;Anezian Ribeiro Dias;12/12/2020 11:01:56;Outros;Cacau;Mudas;Própria;;;5,000.00;0.00;5,000.00;55,000.00
+;;6120;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;623B;9o;Maria do Carmo Alves Evangelista;08/12/2020 19:23:34;Outros;Cacau;Sementes;Própria;Sim;;4,000.00;0.00;4,000.00;44,000.00
+;;7009;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;788A;;José Pereira da Silva;18/02/2021 17:50:58;Outros;Cacau;Mudas;Doada;;;300.00;100.00;200.00;2,200.00
+;;7044;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;360A;;Jordeci Cordeiro Coelho;08/03/2021 15:33:30;Mandioca;;Mudas;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;6519;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;652C;;Antônio Lourenço da Silva;12/02/2021 15:17:16;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6519;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;652C;;Antônio Lourenço da Silva;12/02/2021 15:17:16;Banana;;Mudas;Doada;Não;Sim;;;;
+;;6519;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;652C;;Antônio Lourenço da Silva;12/02/2021 15:17:16;Milho;;Sementes;Comprada;Não;;800.00;800.00;0.00;0.00
+;;6364;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;652C;652;Lindomar Antonio Araújo;12/12/2020 12:34:26;Outros;Cacau;Sementes;Própria;Não Sabe;;4,000.00;0.00;4,000.00;44,000.00
+;;6492;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;705;;Natanael Luiz Tavares;15/02/2021 12:42:53;Outros;Cacau;Sementes;Doada;Não;;2,000.00;0.00;2,000.00;20,000.00
+;;6378;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;760B;760;Sebastiana Miranda de Brito;12/12/2020 13:49:29;Outros;Cacau;Sementes;Própria;Sim;;11,000.00;0.00;11,000.00;121,000.00
+;;6587;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;681B;;Herminair Ribeiro Campelo;25/02/2021 10:58:46;Outros;Cacau;Ambas;Doada;Não;;6,000.00;0.00;6,000.00;54,000.00
+;;6641;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;681D;;Maria Marlene dos Santos Chaves;24/02/2021 16:17:48;Outros;Cacau;Ambas;Doada;Não;;2,000.00;0.00;2,000.00;20,000.00
+;;6650;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;54B;54;Fernando Neves Barros;19/02/2021 14:19:59;Outros;Cacau;Mudas;Própria;;;200.00;0.00;200.00;2,400.00
+;;6657;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;427A;;João Delfino de Araújo;18/02/2021 13:00:49;Outros;Cacau;Mudas;Própria;Não;;7,000.00;0.00;7,000.00;70,000.00
+;;6660;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;746B;;Leonice Gomes Macedo;20/02/2021 19:08:35;Outros;Cacau;Ambas;Doada;Não;;5,000.00;0.00;5,000.00;50,000.00
+;;6570;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;166A;166;Raimunda Barbosa Frederico;16/02/2021 11:40:04;Outros;Cacau;Sementes;Própria;;;0.00;0.00;0.00;0.00
+;;6568;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;166B;166;Domingos da Cruz correia;15/02/2021 18:53:44;Outros;Cacau;Mudas;Própria;;;1,200.00;0.00;1,200.00;14,400.00
+;;6663;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;746A;;Maria Glória Marinheiro dos Santos;18/02/2021 12:32:40;Outros;Cacau;Mudas;Comprada;Não;;215.00;0.00;215.00;4,000.00
+;;6748;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;358C;;Alexandre da Silva Lopes;02/03/2021 12:33:02;Outros;Cacau;Sementes;Doada;;;5,000.00;0.00;5,000.00;30,000.00
+;;6941;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;393;;Luciana dos Santos Oliveira;22/02/2021 17:07:09;Outros;Cacau;Mudas;Doada;;;0.00;0.00;0.00;0.00
+;;6941;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;393;;Luciana dos Santos Oliveira;22/02/2021 17:07:09;Milho;;Sementes;Comprada;;;600.00;600.00;0.00;0.00
+;;6743;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;432A;;Francisco das Chagas Ribeiro dos Santos;19/02/2021 13:07:53;Outros;Cacau;Mudas;Própria;Não;;0.00;0.00;0.00;0.00
+;;6985;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;511B;;José Dantas dos Santos;26/02/2021 00:08:15;Outros;Cacau;Sementes;Doada;;;0.00;0.00;0.00;0.00
+;;7003;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;786;;Clarisvaldo Hermelino Campos;18/02/2021 12:12:59;Outros;Cacau;Mudas;Doada;;;4,000.00;0.00;4,000.00;48,000.00
+;;7004;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;584A;;Joaquim Moreira de Almeida;25/02/2021 11:22:01;Mandioca;;Mudas;Própria;;;6,000.00;6,000.00;0.00;0.00
+;;7004;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;584A;;Joaquim Moreira de Almeida;25/02/2021 11:22:01;Milho;;Sementes;Comprada;;;3,000.00;3,000.00;0.00;0.00
+;;6796;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;76B;;Vanda Nunes de Souza;05/03/2021 16:41:06;Outros;Cacau;Mudas;Doada;Não;;2,000.00;0.00;2,000.00;14,000.00
+;;6908;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;111;;Lucy Moreira dos Santos;02/03/2021 22:25:59;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6483;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;697;;Diana dos Santos Pascoa;12/02/2021 20:19:51;Outros;Cacau;Ambas;Doada;Não;;0.00;0.00;0.00;0.00
+;;6483;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;697;;Diana dos Santos Pascoa;12/02/2021 20:19:51;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;6483;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;697;;Diana dos Santos Pascoa;12/02/2021 20:19:51;Milho;;Sementes;Comprada;Não;;600.00;600.00;0.00;0.00
+;;6811;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;358B;;Selemias Antunes Barbosa;02/03/2021 15:51:29;Outros;Cacau;Sementes;Doada;;;2,500.00;0.00;2,500.00;30,000.00
+;;6809;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;285B;;Geraldo Lopo da Cruz;21/02/2021 13:53:10;Milho;;Sementes;Comprada;;;1,000.00;1,000.00;0.00;0.00
+;;6780;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;687B;;Maria Dalva Gomes de Souza;21/02/2021 12:12:07;Outros;Cacau;Sementes;Doada;Não;;1,000.00;0.00;1,000.00;10,000.00
+;;5874;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;581A;581;Vita Oliveira Fonseca;24/11/2020 18:25:00;Outros;Cacau;Sementes;Própria;Sim;;0.00;0.00;0.00;0.00
+;;5176;PA;São Félix do Xingu;MB0054000;PA COLONIA S. JOSE DO XINGU;546C;;Caleb dias da silva;02/12/2020 11:06:16;Arroz;;Sementes;Doada;;;0.00;0.00;0.00;0.00
+;;10136;PA;São Félix do Xingu;MB0129000;PA LINDOESTE;112;112;Bomfim Gomes de Matos;14/07/2021 12:41:25;Outros;Cacau;Sementes;Própria;;;1,000.00;0.00;1,000.00;12,000.00
+;;10135;PA;São Félix do Xingu;MB0129000;PA LINDOESTE;125;125;Edimar Lopes da Silva;13/07/2021 11:30:55;Outros;Cacau;Sementes;Própria;;;250.00;0.00;250.00;3,000.00
+;;10134;PA;São Félix do Xingu;MB0129000;PA LINDOESTE;116;116;Rosilene Cardoso Ramos Coelho;11/07/2021 20:10:01;Outros;Cacau;Sementes;Própria;;;0.00;0.00;0.00;0.00
+;;10137;PA;São Félix do Xingu;MB0294000;PA RIO CINZA;51;51;Otacilio Ramos dos Santos;07/07/2021 16:39:17;Outros;Cacau;Mudas;Própria;;;2,500.00;0.00;2,500.00;30,000.00
+;;10139;PA;São Félix do Xingu;MB0294000;PA RIO CINZA;31;31;Clebio Sena de Oliveira;08/07/2021 12:44:45;Outros;Cacau;Sementes;Própria;;;4,500.00;0.00;4,500.00;54,000.00
+;;10140;PA;São Félix do Xingu;MB0294000;PA RIO CINZA;25;25;Sonia Alves de Melo;08/07/2021 13:34:37;Outros;Cacau;Sementes;Própria;;;1,500.00;0.00;1,500.00;18,000.00
+;;10148;PA;São Félix do Xingu;MB0294000;PA RIO CINZA;49;49;Ernestino Ferreira;07/07/2021 14:07:33;Outros;6;Sementes;Própria;;;1,000.00;0.00;1,000.00;12,000.00
+;;10150;PA;São Félix do Xingu;MB0294000;PA RIO CINZA;10;10;Antonia Norisleyde dos Santos Gois;10/07/2021 18:28:55;Outros;Cacau;Sementes;Própria;;;50.00;0.00;50.00;600.00
+;;10085;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;128;128;Adriano da Silva Sousa;10/07/2021 10:50:16;Mandioca;;Mudas;Própria;;;500.00;500.00;0.00;0.00
+;;10064;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;225;225;Vitória da Silva e Silva;01/06/2021 19:31:23;Outros;Cacau;Mudas;Doada;;;50.00;0.00;50.00;700.00
+;;10084;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;11B;11B;Silvânia Lopes de Sousa;08/07/2021 13:04:39;Banana;;Mudas;Própria;;Não;1,000.00;1,000.00;0.00;0.00
+;;10084;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;11B;11B;Silvânia Lopes de Sousa;08/07/2021 13:04:39;Mandioca;;Mudas;Própria;;;3,000.00;3,000.00;0.00;0.00
+;;10084;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;11B;11B;Silvânia Lopes de Sousa;08/07/2021 13:04:39;Outros;Cacau;Sementes;Doada;;;0.00;0.00;0.00;0.00
+;;10080;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;176;176;Iraci Caetano Pereira Glória;09/07/2021 15:11:13;Outros;Cacau;Ambas;Doada;Não;;1,329.00;0.00;1,329.00;13,290.00
+;;10081;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;70;70;Pedro Febrônio de Sousa;09/07/2021 19:35:56;Outros;Cacau;Mudas;Doada;Não;;0.00;0.00;0.00;0.00
+;;10081;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;70;70;Pedro Febrônio de Sousa;09/07/2021 19:35:56;Banana;;Mudas;Doada;Não;Não;15,000.00;15,000.00;0.00;0.00
+;;10064;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;225;225;Vitória da Silva e Silva;01/06/2021 19:31:23;Mandioca;;Mudas;Própria;;;10,000.00;10,000.00;0.00;0.00
+;;10100;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;92;;Guilhermino Leite da Silva;10/07/2021 16:54:15;Outros;Cacau;Mudas;Doada;Não;;400.00;0.00;400.00;5,000.00
+;;10088;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;95;95;Iolanda Nunes Pires;10/07/2021 14:28:37;Banana;;Mudas;Comprada;Não;Não;1,000.00;1,000.00;0.00;0.00
+;;10088;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;95;95;Iolanda Nunes Pires;10/07/2021 14:28:37;Outros;Cacau;Mudas;Comprada;Não;;200.00;0.00;200.00;3,000.00
+;;10108;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;98A;;Luzair Rodrigues Costa;10/07/2021 12:43:35;Cana-de-açúcar;;Mudas;Doada;Não;Não;500.00;500.00;0.00;0.00
+;;10108;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;98A;;Luzair Rodrigues Costa;10/07/2021 12:43:35;Mandioca;;Sementes;Própria;Não;;1,000.00;1,000.00;0.00;0.00
+;;10100;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;92;;Guilhermino Leite da Silva;10/07/2021 16:54:15;Milho;;Sementes;Comprada;Não;;300.00;300.00;0.00;0.00
+;;10100;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;92;;Guilhermino Leite da Silva;10/07/2021 16:54:15;Mandioca;;Mudas;Própria;Não;;3,000.00;3,000.00;0.00;0.00
+;;10114;PA;São Félix do Xingu;MB0053000;PA TANCREDO NEVES;190;190;Antônio Luiz Pereira da Silva;10/07/2021 15:28:05;Outros;Cacau;Sementes;Doada;Não Sabe;;1,200.00;0.00;1,200.00;14,400.00
