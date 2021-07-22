@@ -1,0 +1,94 @@
+---
+title: "Cultura por PA"
+runtime: shiny
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+```{r global, include=FALSE}
+# load data in 'global' chunk so it can be shared by all users of the dashboard
+#pp_cultura <- read.csv("D:\\AGROCOMPUTAÇÃO\\R\\dados_radis\\pp_c_header.csv", sep=";", encoding = "UTF-8")
+#pp_cultura.df <- data.frame(pp_cultura)
+
+#names(pp_cultura.df)
+
+#attach(pp_cultura.df)
+
+#cultura_pa <- table(Nome.Pa, Cultura)
+
+#cultura_pa.df <- data.frame("https://raw.githubusercontent.com/engflorestalroberto/r-radis/main/cultura_pa_teste.csv")
+
+
+#cultura_pa.df <- data.frame(read.csv("https://raw.githubusercontent.com/engflorestalroberto/r-radis/main/cultura_pa_teste.csv"))
+
+cultura_pa.df <- data.frame(read.csv("https://raw.githubusercontent.com/engflorestalroberto/r-radis/main/cultura_pa_sem.csv"))
+
+Sys.setlocale(category = "LC_ALL", locale = "UTF-8")
+
+```
+
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(dplyr) 
+library(plyr)
+library(ggplot2)
+library(shiny)
+library(readr)
+library(scales)
+library(tidyverse)
+
+
+
+```
+
+Column {.sidebar}
+-----------------------------------------------------------------------
+Selecione o P.A.
+
+```{r}
+
+            selectInput("Nome.Pa", "Nome PA:", 
+                        choices=cultura_pa.df$Nome.Pa)
+           
+        
+      
+```
+
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Cultura no PA
+
+```{r}
+renderPlot({
+            
+           cultura_pa.df %>%
+                filter(Nome.Pa == input$Nome.Pa)%>%
+                filter(Freq >0)%>%
+                ggplot()+
+                aes(x=Cultura, weight = Freq)+
+                labs(title = input$Nome.Pa)+
+                geom_bar(stat = "count", na.rm = TRUE) + 
+                theme(axis.text.x = element_text( color="red", 
+                                                 size=14, angle=85),
+                      axis.text.y = element_text(face="bold", color="#993333", 
+                                                 size=14))
+})
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Tabela
+
+```{r}
+renderTable({
+            subset (cultura_pa.df, cultura_pa.df$Nome.Pa == input$Nome.Pa)
+            
+        }) 
+```
+
