@@ -32,7 +32,7 @@ library(shiny)
 ui <- fluidPage(    
     
     # Give the page a title
-    titlePanel("Cultura por PA"),
+    titlePanel("Cultura por Projeto de Assentamento"),
     
     # Generate a row with a sidebar
     sidebarLayout(      
